@@ -1,11 +1,10 @@
 Romans,1,1,"This letter is from Paul, a slave of Christ Jesus, chosen by God to be an apostle and sent out to preach his Good News."
 Romans,1,2,God promised this Good News long ago through his prophets in the holy Scriptures.
-Romans,1,3,The Good News is about his Son. In his earthly life he was born into King David’s family line
+Romans,1,3,"The Good News is about his Son. In his earthly life he was born into King David’s family line,"
 Romans,1,4,and he was shown to be the Son of God when he was raised from the dead by the power of the Holy Spirit. He is Jesus Christ our Lord.
 Romans,1,5,"Through Christ, God has given us the privilege and authority as apostles to tell Gentiles everywhere what God has done for them, so that they will believe and obey him, bringing glory to his name."
 Romans,1,6,And you are included among those Gentiles who have been called to belong to Jesus Christ.
-Romans,1,7,"I am writing to all of you in Rome who are loved by God and are called to be his own holy people.
-May God our Father and the Lord Jesus Christ give you grace and peace."
+Romans,1,7,I am writing to all of you in Rome who are loved by God and are called to be his own holy people. May God our Father and the Lord Jesus Christ give you grace and peace.
 Romans,1,8,"Let me say first that I thank my God through Jesus Christ for all of you, because your faith in him is being talked about all over the world."
 Romans,1,9,"God knows how often I pray for you. Day and night I bring you and your needs in prayer to God, whom I serve with all my heart by spreading the Good News about his Son."
 Romans,1,10,"One of the things I always pray for is the opportunity, God willing, to come at last to see you."
@@ -63,26 +62,16 @@ Romans,2,29,"No, a true Jew is one whose heart is right with God. And true circu
 Romans,3,1,Then what’s the advantage of being a Jew? Is there any value in the ceremony of circumcision?
 Romans,3,2,"Yes, there are great benefits! First of all, the Jews were entrusted with the whole revelation of God."
 Romans,3,3,"True, some of them were unfaithful; but just because they were unfaithful, does that mean God will be unfaithful?"
-Romans,3,4,"Of course not! Even if everyone else is a liar, God is true. As the Scriptures say about him,
-“You will be proved right in what you say,
-and you will win your case in court.”"
+Romans,3,4,"Of course not! Even if everyone else is a liar, God is true. As the Scriptures say about him, “You will be proved right in what you say, and you will win your case in court.”"
 Romans,3,5,"“But,” some might say, “our sinfulness serves a good purpose, for it helps people see how righteous God is. Isn’t it unfair, then, for him to punish us?” (This is merely a human point of view.)"
 Romans,3,6,"Of course not! If God were not entirely fair, how would he be qualified to judge the world?"
 Romans,3,7,"“But,” someone might still argue, “how can God condemn me as a sinner if my dishonesty highlights his truthfulness and brings him more glory?”"
 Romans,3,8,"And some people even slander us by claiming that we say, “The more we sin, the better it is!” Those who say such things deserve to be condemned."
 Romans,3,9,"Well then, should we conclude that we Jews are better than others? No, not at all, for we have already shown that all people, whether Jews or Gentiles, are under the power of sin."
-Romans,3,10,"As the Scriptures say,
-“No one is righteous—
-not even one."
-Romans,3,11,"No one is truly wise;
-no one is seeking God."
-Romans,3,12,"All have turned away;
-all have become useless.
-No one does good,
-not a single one.”"
-Romans,3,13,"“Their talk is foul, like the stench from an open grave.
-Their tongues are filled with lies.”
-“Snake venom drips from their lips.”"
+Romans,3,10,"As the Scriptures say, “No one is righteous— not even one."
+Romans,3,11,No one is truly wise; no one is seeking God.
+Romans,3,12,"All have turned away; all have become useless. No one does good, not a single one.”"
+Romans,3,13,"“Their talk is foul, like the stench from an open grave. Their tongues are filled with lies.” “Snake venom drips from their lips.”"
 Romans,3,14,“Their mouths are full of cursing and bitterness.”
 Romans,3,15,“They rush to commit murder.
 Romans,3,16,Destruction and misery always follow them.
@@ -94,7 +83,7 @@ Romans,3,21,"But now God has shown us a way to be made right with him without ke
 Romans,3,22,"We are made right with God by placing our faith in Jesus Christ. And this is true for everyone who believes, no matter who we are."
 Romans,3,23,For everyone has sinned; we all fall short of God’s glorious standard.
 Romans,3,24,"Yet God, in his grace, freely makes us right in his sight. He did this through Christ Jesus when he freed us from the penalty for our sins."
-Romans,3,25,"For God presented Jesus as the sacrifice for sin. People are made right with God when they believe that Jesus sacrificed his life, shedding his blood. This sacrifice shows that God was being fair when he held back and did not punish those who sinned in times past"
+Romans,3,25,"For God presented Jesus as the sacrifice for sin. People are made right with God when they believe that Jesus sacrificed his life, shedding his blood. This sacrifice shows that God was being fair when he held back and did not punish those who sinned in times past,"
 Romans,3,26,"for he was looking ahead and including them in what he would do in this present time. God did this to demonstrate his righteousness, for he himself is fair and just, and he makes sinners right in his sight when they believe in Jesus."
 Romans,3,27,"Can we boast, then, that we have done anything to be accepted by God? No, because our acquittal is not based on obeying the law. It is based on faith."
 Romans,3,28,So we are made right with God through faith and not by obeying the law.
@@ -106,12 +95,9 @@ Romans,4,2,"If his good deeds had made him acceptable to God, he would have had 
 Romans,4,3,"For the Scriptures tell us, “Abraham believed God, and God counted him as righteous because of his faith.”"
 Romans,4,4,"When people work, their wages are not a gift, but something they have earned."
 Romans,4,5,"But people are counted as righteous, not because of their work, but because of their faith in God who forgives sinners."
-Romans,4,6,David also spoke of this when he described the happiness of those who are declared righteous without working for it
-Romans,4,7,"“Oh, what joy for those
-whose disobedience is forgiven,
-whose sins are put out of sight."
-Romans,4,8,"Yes, what joy for those
-whose record the LORD has cleared of sin.”"
+Romans,4,6,David also spoke of this when he described the happiness of those who are declared righteous without working for it:
+Romans,4,7,"“Oh, what joy for those whose disobedience is forgiven, whose sins are put out of sight."
+Romans,4,8,"Yes, what joy for those whose record the Lord has cleared of sin.”"
 Romans,4,9,"Now, is this blessing only for the Jews, or is it also for uncircumcised Gentiles? Well, we have been saying that Abraham was counted as righteous by God because of his faith."
 Romans,4,10,"But how did this happen? Was he counted as righteous only after he was circumcised, or was it before he was circumcised? Clearly, God accepted Abraham before he was circumcised!"
 Romans,4,11,Circumcision was a sign that Abraham already had faith and that God had already accepted him and declared him to be righteous—even before he was circumcised. So Abraham is the spiritual father of those who have faith but have not been circumcised. They are counted as righteous because of their faith.
@@ -173,7 +159,7 @@ Romans,6,20,"When you were slaves to sin, you were free from the obligation to d
 Romans,6,21,"And what was the result? You are now ashamed of the things you used to do, things that end in eternal doom."
 Romans,6,22,But now you are free from the power of sin and have become slaves of God. Now you do those things that lead to holiness and result in eternal life.
 Romans,6,23,"For the wages of sin is death, but the free gift of God is eternal life through Christ Jesus our Lord."
-Romans,7,1,"Now, dear brothers and sisters—you who are familiar with the law—don’t you know that the law applies only while a person is living?"
+Romans,7,1,"Now, dear brothers and sisters —you who are familiar with the law—don’t you know that the law applies only while a person is living?"
 Romans,7,2,"For example, when a woman marries, the law binds her to her husband as long as he is alive. But if he dies, the laws of marriage no longer apply to her."
 Romans,7,3,"So while her husband is alive, she would be committing adultery if she married another man. But if her husband dies, she is free from that law and does not commit adultery when she remarries."
 Romans,7,4,"So, my dear brothers and sisters, this is the point: You died to the power of the law when you died with Christ. And now you are united with the one who was raised from the dead. As a result, we can produce a harvest of good deeds for God."
@@ -181,7 +167,7 @@ Romans,7,5,"When we were controlled by our old nature, sinful desires were at wo
 Romans,7,6,"But now we have been released from the law, for we died to it and are no longer captive to its power. Now we can serve God, not in the old way of obeying the letter of the law, but in the new way of living in the Spirit."
 Romans,7,7,"Well then, am I suggesting that the law of God is sinful? Of course not! In fact, it was the law that showed me my sin. I would never have known that coveting is wrong if the law had not said, “You must not covet.”"
 Romans,7,8,"But sin used this command to arouse all kinds of covetous desires within me! If there were no law, sin would not have that power."
-Romans,7,9,"At one time I lived without understanding the law. But when I learned the command not to covet, for instance, the power of sin came to life"
+Romans,7,9,"At one time I lived without understanding the law. But when I learned the command not to covet, for instance, the power of sin came to life,"
 Romans,7,10,"and I died. So I discovered that the law’s commands, which were supposed to bring life, brought spiritual death instead."
 Romans,7,11,Sin took advantage of those commands and deceived me; it used the commands to kill me.
 Romans,7,12,"But still, the law itself is holy, and its commands are holy and right and good."
@@ -217,7 +203,7 @@ Romans,8,16,For his Spirit joins with our spirit to affirm that we are God’s c
 Romans,8,17,"And since we are his children, we are his heirs. In fact, together with Christ we are heirs of God’s glory. But if we are to share his glory, we must also share his suffering."
 Romans,8,18,Yet what we suffer now is nothing compared to the glory he will reveal to us later.
 Romans,8,19,For all creation is waiting eagerly for that future day when God will reveal who his children really are.
-Romans,8,20,"Against its will, all creation was subjected to God’s curse. But with eager hope"
+Romans,8,20,"Against its will, all creation was subjected to God’s curse. But with eager hope,"
 Romans,8,21,the creation looks forward to the day when it will join God’s children in glorious freedom from death and decay.
 Romans,8,22,For we know that all creation has been groaning as in the pains of childbirth right up to the present time.
 Romans,8,23,"And we believers also groan, even though we have the Holy Spirit within us as a foretaste of future glory, for we long for our bodies to be released from sin and suffering. We, too, wait with eager hope for the day when God will give us our full rights as his adopted children, including the new bodies he has promised us."
@@ -247,13 +233,11 @@ Romans,9,7,"Being descendants of Abraham doesn’t make them truly Abraham’s c
 Romans,9,8,This means that Abraham’s physical descendants are not necessarily children of God. Only the children of the promise are considered to be Abraham’s children.
 Romans,9,9,"For God had promised, “I will return about this time next year, and Sarah will have a son.”"
 Romans,9,10,"This son was our ancestor Isaac. When he married Rebekah, she gave birth to twins."
-Romans,9,11,"But before they were born, before they had done anything good or bad, she received a message from God. (This message shows that God chooses people according to his own purposes"
+Romans,9,11,"But before they were born, before they had done anything good or bad, she received a message from God. (This message shows that God chooses people according to his own purposes;"
 Romans,9,12,"he calls people, but not according to their good or bad works.) She was told, “Your older son will serve your younger son.”"
 Romans,9,13,"In the words of the Scriptures, “I loved Jacob, but I rejected Esau.”"
 Romans,9,14,"Are we saying, then, that God was unfair? Of course not!"
-Romans,9,15,"For God said to Moses,
-“I will show mercy to anyone I choose,
-and I will show compassion to anyone I choose.”"
+Romans,9,15,"For God said to Moses, “I will show mercy to anyone I choose, and I will show compassion to anyone I choose.”"
 Romans,9,16,So it is God who decides to show mercy. We can neither choose it nor work for it.
 Romans,9,17,"For the Scriptures say that God told Pharaoh, “I have appointed you for the very purpose of displaying my power in you and to spread my fame throughout the earth.”"
 Romans,9,18,"So you see, God chooses to show mercy to some, and he chooses to harden the hearts of others so they refuse to listen."
@@ -263,34 +247,15 @@ Romans,9,21,"When a potter makes jars out of clay, doesn’t he have a right to 
 Romans,9,22,"In the same way, even though God has the right to show his anger and his power, he is very patient with those on whom his anger falls, who are destined for destruction."
 Romans,9,23,"He does this to make the riches of his glory shine even brighter on those to whom he shows mercy, who were prepared in advance for glory."
 Romans,9,24,"And we are among those whom he selected, both from the Jews and from the Gentiles."
-Romans,9,25,"Concerning the Gentiles, God says in the prophecy of Hosea,
-“Those who were not my people,
-I will now call my people.
-And I will love those
-whom I did not love before.”"
-Romans,9,26,"And,
-“Then, at the place where they were told,
-‘You are not my people,’
-there they will be called
-‘children of the living God.’”"
-Romans,9,27,"And concerning Israel, Isaiah the prophet cried out,
-“Though the people of Israel are as numerous as the sand of the seashore,
-only a remnant will be saved."
-Romans,9,28,"For the LORD will carry out his sentence upon the earth
-quickly and with finality.”"
-Romans,9,29,"And Isaiah said the same thing in another place:
-“If the LORD of Heaven’s Armies
-had not spared a few of our children,
-we would have been wiped out like Sodom,
-destroyed like Gomorrah.”"
+Romans,9,25,"Concerning the Gentiles, God says in the prophecy of Hosea, “Those who were not my people, I will now call my people. And I will love those whom I did not love before.”"
+Romans,9,26,"And, “Then, at the place where they were told, ‘You are not my people,’ there they will be called ‘children of the living God.’”"
+Romans,9,27,"And concerning Israel, Isaiah the prophet cried out, “Though the people of Israel are as numerous as the sand of the seashore, only a remnant will be saved."
+Romans,9,28,For the Lord will carry out his sentence upon the earth quickly and with finality.”
+Romans,9,29,"And Isaiah said the same thing in another place: “If the Lord of Heaven’s Armies had not spared a few of our children, we would have been wiped out like Sodom, destroyed like Gomorrah.”"
 Romans,9,30,"What does all this mean? Even though the Gentiles were not trying to follow God’s standards, they were made right with God. And it was by faith that this took place."
 Romans,9,31,"But the people of Israel, who tried so hard to get right with God by keeping the law, never succeeded."
 Romans,9,32,Why not? Because they were trying to get right with God by keeping the law instead of by trusting in him. They stumbled over the great rock in their path.
-Romans,9,33,"God warned them of this in the Scriptures when he said,
-“I am placing a stone in Jerusalem that makes people stumble,
-a rock that makes them fall.
-But anyone who trusts in him
-will never be disgraced.”"
+Romans,9,33,"God warned them of this in the Scriptures when he said, “I am placing a stone in Jerusalem that makes people stumble, a rock that makes them fall. But anyone who trusts in him will never be disgraced.”"
 Romans,10,1,"Dear brothers and sisters, the longing of my heart and my prayer to God is for the people of Israel to be saved."
 Romans,10,2,"I know what enthusiasm they have for God, but it is misdirected zeal."
 Romans,10,3,"For they don’t understand God’s way of making people right with himself. Refusing to accept God’s way, they cling to their own way of getting right with God by trying to keep the law."
@@ -298,52 +263,33 @@ Romans,10,4,"For Christ has already accomplished the purpose for which the law w
 Romans,10,5,For Moses writes that the law’s way of making a person right with God requires obedience to all of its commands.
 Romans,10,6,"But faith’s way of getting right with God says, “Don’t say in your heart, ‘Who will go up to heaven?’ (to bring Christ down to earth)."
 Romans,10,7,"And don’t say, ‘Who will go down to the place of the dead?’ (to bring Christ back to life again).”"
-Romans,10,8,"In fact, it says,
-“The message is very close at hand;
-it is on your lips and in your heart.”
-And that message is the very message about faith that we preach"
+Romans,10,8,"In fact, it says, “The message is very close at hand; it is on your lips and in your heart.” And that message is the very message about faith that we preach:"
 Romans,10,9,"If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
 Romans,10,10,"For it is by believing in your heart that you are made right with God, and it is by openly declaring your faith that you are saved."
 Romans,10,11,"As the Scriptures tell us, “Anyone who trusts in him will never be disgraced.”"
 Romans,10,12,"Jew and Gentile are the same in this respect. They have the same Lord, who gives generously to all who call on him."
-Romans,10,13,For “Everyone who calls on the name of the LORD will be saved.”
+Romans,10,13,For “Everyone who calls on the name of the Lord will be saved.”
 Romans,10,14,But how can they call on him to save them unless they believe in him? And how can they believe in him if they have never heard about him? And how can they hear about him unless someone tells them?
 Romans,10,15,"And how will anyone go and tell them without being sent? That is why the Scriptures say, “How beautiful are the feet of messengers who bring good news!”"
-Romans,10,16,"But not everyone welcomes the Good News, for Isaiah the prophet said, “LORD, who has believed our message?”"
+Romans,10,16,"But not everyone welcomes the Good News, for Isaiah the prophet said, “ Lord , who has believed our message?”"
 Romans,10,17,"So faith comes from hearing, that is, hearing the Good News about Christ."
-Romans,10,18,"But I ask, have the people of Israel actually heard the message? Yes, they have:
-“The message has gone throughout the earth,
-and the words to all the world.”"
-Romans,10,19,"But I ask, did the people of Israel really understand? Yes, they did, for even in the time of Moses, God said,
-“I will rouse your jealousy through people who are not even a nation.
-I will provoke your anger through the foolish Gentiles.”"
-Romans,10,20,"And later Isaiah spoke boldly for God, saying,
-“I was found by people who were not looking for me.
-I showed myself to those who were not asking for me.”"
-Romans,10,21,"But regarding Israel, God said,
-“All day long I opened my arms to them,
-but they were disobedient and rebellious.”"
+Romans,10,18,"But I ask, have the people of Israel actually heard the message? Yes, they have: “The message has gone throughout the earth, and the words to all the world.”"
+Romans,10,19,"But I ask, did the people of Israel really understand? Yes, they did, for even in the time of Moses, God said, “I will rouse your jealousy through people who are not even a nation. I will provoke your anger through the foolish Gentiles.”"
+Romans,10,20,"And later Isaiah spoke boldly for God, saying, “I was found by people who were not looking for me. I showed myself to those who were not asking for me.”"
+Romans,10,21,"But regarding Israel, God said, “All day long I opened my arms to them, but they were disobedient and rebellious.”"
 Romans,11,1,"I ask, then, has God rejected his own people, the nation of Israel? Of course not! I myself am an Israelite, a descendant of Abraham and a member of the tribe of Benjamin."
-Romans,11,2,"No, God has not rejected his own people, whom he chose from the very beginning. Do you realize what the Scriptures say about this? Elijah the prophet complained to God about the people of Israel and said"
-Romans,11,3,"“LORD, they have killed your prophets and torn down your altars. I am the only one left, and now they are trying to kill me, too.”"
+Romans,11,2,"No, God has not rejected his own people, whom he chose from the very beginning. Do you realize what the Scriptures say about this? Elijah the prophet complained to God about the people of Israel and said,"
+Romans,11,3,"“ Lord , they have killed your prophets and torn down your altars. I am the only one left, and now they are trying to kill me, too.”"
 Romans,11,4,"And do you remember God’s reply? He said, “No, I have 7,000 others who have never bowed down to Baal!”"
 Romans,11,5,"It is the same today, for a few of the people of Israel have remained faithful because of God’s grace—his undeserved kindness in choosing them."
 Romans,11,6,"And since it is through God’s kindness, then it is not by their good works. For in that case, God’s grace would not be what it really is—free and undeserved."
 Romans,11,7,So this is the situation: Most of the people of Israel have not found the favor of God they are looking for so earnestly. A few have—the ones God has chosen—but the hearts of the rest were hardened.
-Romans,11,8,"As the Scriptures say,
-“God has put them into a deep sleep.
-To this day he has shut their eyes so they do not see,
-and closed their ears so they do not hear.”"
-Romans,11,9,"Likewise, David said,
-“Let their bountiful table become a snare,
-a trap that makes them think all is well.
-Let their blessings cause them to stumble,
-and let them get what they deserve."
-Romans,11,10,"Let their eyes go blind so they cannot see,
-and let their backs be bent forever.”"
+Romans,11,8,"As the Scriptures say, “God has put them into a deep sleep. To this day he has shut their eyes so they do not see, and closed their ears so they do not hear.”"
+Romans,11,9,"Likewise, David said, “Let their bountiful table become a snare, a trap that makes them think all is well. Let their blessings cause them to stumble, and let them get what they deserve."
+Romans,11,10,"Let their eyes go blind so they cannot see, and let their backs be bent forever.”"
 Romans,11,11,"Did God’s people stumble and fall beyond recovery? Of course not! They were disobedient, so God made salvation available to the Gentiles. But he wanted his own people to become jealous and claim it for themselves."
 Romans,11,12,"Now if the Gentiles were enriched because the people of Israel turned down God’s offer of salvation, think how much greater a blessing the world will share when they finally accept it."
-Romans,11,13,I am saying all this especially for you Gentiles. God has appointed me as the apostle to the Gentiles. I stress this
+Romans,11,13,"I am saying all this especially for you Gentiles. God has appointed me as the apostle to the Gentiles. I stress this,"
 Romans,11,14,"for I want somehow to make the people of Israel jealous of what you Gentiles have, so I might save some of them."
 Romans,11,15,"For since their rejection meant that God offered salvation to the rest of the world, their acceptance will be even more wonderful. It will be life for those who were dead!"
 Romans,11,16,"And since Abraham and the other patriarchs were holy, their descendants will also be holy—just as the entire batch of dough is holy because the portion given as an offering is holy. For if the roots of the tree are holy, the branches will be, too."
@@ -356,26 +302,21 @@ Romans,11,22,"Notice how God is both kind and severe. He is severe toward those 
 Romans,11,23,"And if the people of Israel turn from their unbelief, they will be grafted in again, for God has the power to graft them back into the tree."
 Romans,11,24,"You, by nature, were a branch cut from a wild olive tree. So if God was willing to do something contrary to nature by grafting you into his cultivated tree, he will be far more eager to graft the original branches back into the tree where they belong."
 Romans,11,25,"I want you to understand this mystery, dear brothers and sisters, so that you will not feel proud about yourselves. Some of the people of Israel have hard hearts, but this will last only until the full number of Gentiles comes to Christ."
-Romans,11,26,"And so all Israel will be saved. As the Scriptures say,
-“The one who rescues will come from Jerusalem,
-and he will turn Israel away from ungodliness."
-Romans,11,27,"And this is my covenant with them,
-that I will take away their sins.”"
+Romans,11,26,"And so all Israel will be saved. As the Scriptures say, “The one who rescues will come from Jerusalem, and he will turn Israel away from ungodliness."
+Romans,11,27,"And this is my covenant with them, that I will take away their sins.”"
 Romans,11,28,"Many of the people of Israel are now enemies of the Good News, and this benefits you Gentiles. Yet they are still the people he loves because he chose their ancestors Abraham, Isaac, and Jacob."
 Romans,11,29,For God’s gifts and his call can never be withdrawn.
 Romans,11,30,"Once, you Gentiles were rebels against God, but when the people of Israel rebelled against him, God was merciful to you instead."
 Romans,11,31,"Now they are the rebels, and God’s mercy has come to you so that they, too, will share in God’s mercy."
 Romans,11,32,For God has imprisoned everyone in disobedience so he could have mercy on everyone.
 Romans,11,33,"Oh, how great are God’s riches and wisdom and knowledge! How impossible it is for us to understand his decisions and his ways!"
-Romans,11,34,"For who can know the LORD’s thoughts?
-Who knows enough to give him advice?"
-Romans,11,35,"And who has given him so much
-that he needs to pay it back?"
+Romans,11,34,For who can know the Lord ’s thoughts? Who knows enough to give him advice?
+Romans,11,35,And who has given him so much that he needs to pay it back?
 Romans,11,36,For everything comes from him and exists by his power and is intended for his glory. All glory to him forever! Amen.
 Romans,12,1,"And so, dear brothers and sisters, I plead with you to give your bodies to God because of all he has done for you. Let them be a living and holy sacrifice—the kind he will find acceptable. This is truly the way to worship him."
 Romans,12,2,"Don’t copy the behavior and customs of this world, but let God transform you into a new person by changing the way you think. Then you will learn to know God’s will for you, which is good and pleasing and perfect."
 Romans,12,3,"Because of the privilege and authority God has given me, I give each of you this warning: Don’t think you are better than you really are. Be honest in your evaluation of yourselves, measuring yourselves by the faith God has given us."
-Romans,12,4,Just as our bodies have many parts and each part has a special function
+Romans,12,4,"Just as our bodies have many parts and each part has a special function,"
 Romans,12,5,"so it is with Christ’s body. We are many parts of one body, and we all belong to each other."
 Romans,12,6,"In his grace, God has given us different gifts for doing certain things well. So if God has given you the ability to prophesy, speak out with as much faith as God has given you."
 Romans,12,7,"If your gift is serving others, serve them well. If you are a teacher, teach well."
@@ -390,15 +331,8 @@ Romans,12,15,"Be happy with those who are happy, and weep with those who weep."
 Romans,12,16,Live in harmony with each other. Don’t be too proud to enjoy the company of ordinary people. And don’t think you know it all!
 Romans,12,17,Never pay back evil with more evil. Do things in such a way that everyone can see you are honorable.
 Romans,12,18,Do all that you can to live in peace with everyone.
-Romans,12,19,"Dear friends, never take revenge. Leave that to the righteous anger of God. For the Scriptures say,
-“I will take revenge;
-I will pay them back,”
-says the LORD."
-Romans,12,20,"Instead,
-“If your enemies are hungry, feed them.
-If they are thirsty, give them something to drink.
-In doing this, you will heap
-burning coals of shame on their heads.”"
+Romans,12,19,"Dear friends, never take revenge. Leave that to the righteous anger of God. For the Scriptures say, “I will take revenge; I will pay them back,” says the Lord."
+Romans,12,20,"Instead, “If your enemies are hungry, feed them. If they are thirsty, give them something to drink. In doing this, you will heap burning coals of shame on their heads.”"
 Romans,12,21,"Don’t let evil conquer you, but conquer evil by doing good."
 Romans,13,1,"Everyone must submit to governing authorities. For all authority comes from God, and those in positions of authority have been placed there by God."
 Romans,13,2,"So anyone who rebels against authority is rebelling against what God has instituted, and they will be punished."
@@ -423,11 +357,8 @@ Romans,14,6,"Those who worship the Lord on a special day do it to honor him. Tho
 Romans,14,7,For we don’t live for ourselves or die for ourselves.
 Romans,14,8,"If we live, it’s to honor the Lord. And if we die, it’s to honor the Lord. So whether we live or die, we belong to the Lord."
 Romans,14,9,Christ died and rose again for this very purpose—to be Lord both of the living and of the dead.
-Romans,14,10,"So why do you condemn another believer? Why do you look down on another believer? Remember, we will all stand before the judgment seat of God."
-Romans,14,11,"For the Scriptures say,
-“‘As surely as I live,’ says the LORD,
-‘every knee will bend to me,
-and every tongue will declare allegiance to God.’”"
+Romans,14,10,"So why do you condemn another believer ? Why do you look down on another believer? Remember, we will all stand before the judgment seat of God."
+Romans,14,11,"For the Scriptures say, “‘As surely as I live,’ says the Lord, ‘every knee will bend to me, and every tongue will declare allegiance to God. ’”"
 Romans,14,12,"Yes, each of us will give a personal account to God."
 Romans,14,13,So let’s stop condemning each other. Decide instead to live in such a way that you will not cause another believer to stumble and fall.
 Romans,14,14,"I know and am convinced on the authority of the Lord Jesus that no food, in and of itself, is wrong to eat. But if someone believes it is wrong, then for that person it is wrong."
@@ -448,30 +379,19 @@ Romans,15,5,"May God, who gives this patience and encouragement, help you live i
 Romans,15,6,"Then all of you can join together with one voice, giving praise and glory to God, the Father of our Lord Jesus Christ."
 Romans,15,7,"Therefore, accept each other just as Christ has accepted you so that God will be given glory."
 Romans,15,8,Remember that Christ came as a servant to the Jews to show that God is true to the promises he made to their ancestors.
-Romans,15,9,"He also came so that the Gentiles might give glory to God for his mercies to them. That is what the psalmist meant when he wrote:
-“For this, I will praise you among the Gentiles;
-I will sing praises to your name.”"
-Romans,15,10,"And in another place it is written,
-“Rejoice with his people,
-you Gentiles.”"
-Romans,15,11,"And yet again,
-“Praise the LORD, all you Gentiles.
-Praise him, all you people of the earth.”"
-Romans,15,12,"And in another place Isaiah said,
-“The heir to David’s throne will come,
-and he will rule over the Gentiles.
-They will place their hope on him.”"
+Romans,15,9,"He also came so that the Gentiles might give glory to God for his mercies to them. That is what the psalmist meant when he wrote: “For this, I will praise you among the Gentiles; I will sing praises to your name.”"
+Romans,15,10,"And in another place it is written, “Rejoice with his people, you Gentiles.”"
+Romans,15,11,"And yet again, “Praise the Lord , all you Gentiles. Praise him, all you people of the earth.”"
+Romans,15,12,"And in another place Isaiah said, “The heir to David’s throne will come, and he will rule over the Gentiles. They will place their hope on him.”"
 Romans,15,13,"I pray that God, the source of hope, will fill you completely with joy and peace because you trust in him. Then you will overflow with confident hope through the power of the Holy Spirit."
 Romans,15,14,"I am fully convinced, my dear brothers and sisters, that you are full of goodness. You know these things so well you can teach each other all about them."
-Romans,15,15,"Even so, I have been bold enough to write about some of these points, knowing that all you need is this reminder. For by God’s grace"
+Romans,15,15,"Even so, I have been bold enough to write about some of these points, knowing that all you need is this reminder. For by God’s grace,"
 Romans,15,16,"I am a special messenger from Christ Jesus to you Gentiles. I bring you the Good News so that I might present you as an acceptable offering to God, made holy by the Holy Spirit."
 Romans,15,17,So I have reason to be enthusiastic about all Christ Jesus has done through me in my service to God.
 Romans,15,18,"Yet I dare not boast about anything except what Christ has done through me, bringing the Gentiles to God by my message and by the way I worked among them."
 Romans,15,19,"They were convinced by the power of miraculous signs and wonders and by the power of God’s Spirit. In this way, I have fully presented the Good News of Christ from Jerusalem all the way to Illyricum."
 Romans,15,20,"My ambition has always been to preach the Good News where the name of Christ has never been heard, rather than where a church has already been started by someone else."
-Romans,15,21,"I have been following the plan spoken of in the Scriptures, where it says,
-“Those who have never been told about him will see,
-and those who have never heard of him will understand.”"
+Romans,15,21,"I have been following the plan spoken of in the Scriptures, where it says, “Those who have never been told about him will see, and those who have never heard of him will understand.”"
 Romans,15,22,"In fact, my visit to you has been delayed so long because I have been preaching in these places."
 Romans,15,23,"But now I have finished my work in these regions, and after all these long years of waiting, I am eager to visit you."
 Romans,15,24,"I am planning to go to Spain, and when I do, I will stop off in Rome. And after I have enjoyed your fellowship for a little while, you can provide for my journey."
@@ -488,8 +408,7 @@ Romans,16,1,"I commend to you our sister Phoebe, who is a deacon in the church i
 Romans,16,2,"Welcome her in the Lord as one who is worthy of honor among God’s people. Help her in whatever she needs, for she has been helpful to many, and especially to me."
 Romans,16,3,"Give my greetings to Priscilla and Aquila, my co-workers in the ministry of Christ Jesus."
 Romans,16,4,"In fact, they once risked their lives for me. I am thankful to them, and so are all the Gentile churches."
-Romans,16,5,"Also give my greetings to the church that meets in their home.
-Greet my dear friend Epenetus. He was the first person from the province of Asia to become a follower of Christ."
+Romans,16,5,Also give my greetings to the church that meets in their home. Greet my dear friend Epenetus. He was the first person from the province of Asia to become a follower of Christ.
 Romans,16,6,"Give my greetings to Mary, who has worked so hard for your benefit."
 Romans,16,7,"Greet Andronicus and Junia, my fellow Jews, who were in prison with me. They are highly respected among the apostles and became followers of Christ before I did."
 Romans,16,8,"Greet Ampliatus, my dear friend in the Lord."

@@ -1,66 +1,34 @@
-Matthew,1,1,"This is a record of the ancestors of Jesus the Messiah, a descendant of David and of Abraham"
-Matthew,1,2,"Abraham was the father of Isaac.
-Isaac was the father of Jacob.
-Jacob was the father of Judah and his brothers."
-Matthew,1,3,"Judah was the father of Perez and Zerah (whose mother was Tamar).
-Perez was the father of Hezron.
-Hezron was the father of Ram."
-Matthew,1,4,"Ram was the father of Amminadab.
-Amminadab was the father of Nahshon.
-Nahshon was the father of Salmon."
-Matthew,1,5,"Salmon was the father of Boaz (whose mother was Rahab).
-Boaz was the father of Obed (whose mother was Ruth).
-Obed was the father of Jesse."
-Matthew,1,6,"Jesse was the father of King David.
-David was the father of Solomon (whose mother was Bathsheba, the widow of Uriah)."
-Matthew,1,7,"Solomon was the father of Rehoboam.
-Rehoboam was the father of Abijah.
-Abijah was the father of Asa."
-Matthew,1,8,"Asa was the father of Jehoshaphat.
-Jehoshaphat was the father of Jehoram.
-Jehoram was the father of Uzziah."
-Matthew,1,9,"Uzziah was the father of Jotham.
-Jotham was the father of Ahaz.
-Ahaz was the father of Hezekiah."
-Matthew,1,10,"Hezekiah was the father of Manasseh.
-Manasseh was the father of Amon.
-Amon was the father of Josiah."
+Matthew,1,1,"This is a record of the ancestors of Jesus the Messiah, a descendant of David and of Abraham:"
+Matthew,1,2,Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and his brothers.
+Matthew,1,3,Judah was the father of Perez and Zerah (whose mother was Tamar). Perez was the father of Hezron. Hezron was the father of Ram.
+Matthew,1,4,Ram was the father of Amminadab. Amminadab was the father of Nahshon. Nahshon was the father of Salmon.
+Matthew,1,5,Salmon was the father of Boaz (whose mother was Rahab). Boaz was the father of Obed (whose mother was Ruth). Obed was the father of Jesse.
+Matthew,1,6,"Jesse was the father of King David. David was the father of Solomon (whose mother was Bathsheba, the widow of Uriah)."
+Matthew,1,7,Solomon was the father of Rehoboam. Rehoboam was the father of Abijah. Abijah was the father of Asa.
+Matthew,1,8,Asa was the father of Jehoshaphat. Jehoshaphat was the father of Jehoram. Jehoram was the father of Uzziah.
+Matthew,1,9,Uzziah was the father of Jotham. Jotham was the father of Ahaz. Ahaz was the father of Hezekiah.
+Matthew,1,10,Hezekiah was the father of Manasseh. Manasseh was the father of Amon. Amon was the father of Josiah.
 Matthew,1,11,Josiah was the father of Jehoiachin and his brothers (born at the time of the exile to Babylon).
-Matthew,1,12,"After the Babylonian exile:
-Jehoiachin was the father of Shealtiel.
-Shealtiel was the father of Zerubbabel."
-Matthew,1,13,"Zerubbabel was the father of Abiud.
-Abiud was the father of Eliakim.
-Eliakim was the father of Azor."
-Matthew,1,14,"Azor was the father of Zadok.
-Zadok was the father of Akim.
-Akim was the father of Eliud."
-Matthew,1,15,"Eliud was the father of Eleazar.
-Eleazar was the father of Matthan.
-Matthan was the father of Jacob."
-Matthew,1,16,"Jacob was the father of Joseph, the husband of Mary.
-Mary gave birth to Jesus, who is called the Messiah."
+Matthew,1,12,After the Babylonian exile: Jehoiachin was the father of Shealtiel. Shealtiel was the father of Zerubbabel.
+Matthew,1,13,Zerubbabel was the father of Abiud. Abiud was the father of Eliakim. Eliakim was the father of Azor.
+Matthew,1,14,Azor was the father of Zadok. Zadok was the father of Akim. Akim was the father of Eliud.
+Matthew,1,15,Eliud was the father of Eleazar. Eleazar was the father of Matthan. Matthan was the father of Jacob.
+Matthew,1,16,"Jacob was the father of Joseph, the husband of Mary. Mary gave birth to Jesus, who is called the Messiah."
 Matthew,1,17,"All those listed above include fourteen generations from Abraham to David, fourteen from David to the Babylonian exile, and fourteen from the Babylonian exile to the Messiah."
 Matthew,1,18,"This is how Jesus the Messiah was born. His mother, Mary, was engaged to be married to Joseph. But before the marriage took place, while she was still a virgin, she became pregnant through the power of the Holy Spirit."
 Matthew,1,19,"Joseph, to whom she was engaged, was a righteous man and did not want to disgrace her publicly, so he decided to break the engagement quietly."
 Matthew,1,20,"As he considered this, an angel of the Lord appeared to him in a dream. “Joseph, son of David,” the angel said, “do not be afraid to take Mary as your wife. For the child within her was conceived by the Holy Spirit."
 Matthew,1,21,"And she will have a son, and you are to name him Jesus, for he will save his people from their sins.”"
-Matthew,1,22,All of this occurred to fulfill the Lord’s message through his prophet
-Matthew,1,23,"“Look! The virgin will conceive a child!
-She will give birth to a son,
-and they will call him Immanuel,
-which means ‘God is with us.’”"
+Matthew,1,22,All of this occurred to fulfill the Lord’s message through his prophet:
+Matthew,1,23,"“Look! The virgin will conceive a child! She will give birth to a son, and they will call him Immanuel, which means ‘God is with us.’”"
 Matthew,1,24,"When Joseph woke up, he did as the angel of the Lord commanded and took Mary as his wife."
 Matthew,1,25,But he did not have sexual relations with her until her son was born. And Joseph named him Jesus.
-Matthew,2,1,"Jesus was born in Bethlehem in Judea, during the reign of King Herod. About that time some wise men from eastern lands arrived in Jerusalem, asking"
+Matthew,2,1,"Jesus was born in Bethlehem in Judea, during the reign of King Herod. About that time some wise men from eastern lands arrived in Jerusalem, asking,"
 Matthew,2,2,"“Where is the newborn king of the Jews? We saw his star as it rose, and we have come to worship him.”"
 Matthew,2,3,"King Herod was deeply disturbed when he heard this, as was everyone in Jerusalem."
 Matthew,2,4,"He called a meeting of the leading priests and teachers of religious law and asked, “Where is the Messiah supposed to be born?”"
-Matthew,2,5,"“In Bethlehem in Judea,” they said, “for this is what the prophet wrote"
-Matthew,2,6,"‘And you, O Bethlehem in the land of Judah,
-are not least among the ruling cities of Judah,
-for a ruler will come from you
-who will be the shepherd for my people Israel.’”"
+Matthew,2,5,"“In Bethlehem in Judea,” they said, “for this is what the prophet wrote:"
+Matthew,2,6,"‘And you, O Bethlehem in the land of Judah, are not least among the ruling cities of Judah, for a ruler will come from you who will be the shepherd for my people Israel.’ ”"
 Matthew,2,7,"Then Herod called for a private meeting with the wise men, and he learned from them the time when the star first appeared."
 Matthew,2,8,"Then he told them, “Go to Bethlehem and search carefully for the child. And when you find him, come back and tell me so that I can go and worship him, too!”"
 Matthew,2,9,After this interview the wise men went their way. And the star they had seen in the east guided them to Bethlehem. It went ahead of them and stopped over the place where the child was.
@@ -68,26 +36,19 @@ Matthew,2,10,"When they saw the star, they were filled with joy!"
 Matthew,2,11,"They entered the house and saw the child with his mother, Mary, and they bowed down and worshiped him. Then they opened their treasure chests and gave him gifts of gold, frankincense, and myrrh."
 Matthew,2,12,"When it was time to leave, they returned to their own country by another route, for God had warned them in a dream not to return to Herod."
 Matthew,2,13,"After the wise men were gone, an angel of the Lord appeared to Joseph in a dream. “Get up! Flee to Egypt with the child and his mother,” the angel said. “Stay there until I tell you to return, because Herod is going to search for the child to kill him.”"
-Matthew,2,14,"That night Joseph left for Egypt with the child and Mary, his mother"
+Matthew,2,14,"That night Joseph left for Egypt with the child and Mary, his mother,"
 Matthew,2,15,and they stayed there until Herod’s death. This fulfilled what the Lord had spoken through the prophet: “I called my Son out of Egypt.”
 Matthew,2,16,"Herod was furious when he realized that the wise men had outwitted him. He sent soldiers to kill all the boys in and around Bethlehem who were two years old and under, based on the wise men’s report of the star’s first appearance."
-Matthew,2,17,Herod’s brutal action fulfilled what God had spoken through the prophet Jeremiah
-Matthew,2,18,"“A cry was heard in Ramah—
-weeping and great mourning.
-Rachel weeps for her children,
-refusing to be comforted,
-for they are dead.”"
+Matthew,2,17,Herod’s brutal action fulfilled what God had spoken through the prophet Jeremiah:
+Matthew,2,18,"“A cry was heard in Ramah— weeping and great mourning. Rachel weeps for her children, refusing to be comforted, for they are dead.”"
 Matthew,2,19,"When Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt."
 Matthew,2,20,"“Get up!” the angel said. “Take the child and his mother back to the land of Israel, because those who were trying to kill the child are dead.”"
 Matthew,2,21,So Joseph got up and returned to the land of Israel with Jesus and his mother.
 Matthew,2,22,"But when he learned that the new ruler of Judea was Herod’s son Archelaus, he was afraid to go there. Then, after being warned in a dream, he left for the region of Galilee."
 Matthew,2,23,So the family went and lived in a town called Nazareth. This fulfilled what the prophets had said: “He will be called a Nazarene.”
-Matthew,3,1,In those days John the Baptist came to the Judean wilderness and began preaching. His message was
-Matthew,3,2,"“Repent of your sins and turn to God, for the Kingdom of Heaven is near.”"
-Matthew,3,3,"The prophet Isaiah was speaking about John when he said,
-“He is a voice shouting in the wilderness,
-‘Prepare the way for the LORD’s coming!
-Clear the road for him!’”"
+Matthew,3,1,"In those days John the Baptist came to the Judean wilderness and began preaching. His message was,"
+Matthew,3,2,"“Repent of your sins and turn to God, for the Kingdom of Heaven is near. ”"
+Matthew,3,3,"The prophet Isaiah was speaking about John when he said, “He is a voice shouting in the wilderness, ‘Prepare the way for the Lord ’s coming! Clear the road for him!’”"
 Matthew,3,4,"John’s clothes were woven from coarse camel hair, and he wore a leather belt around his waist. For food he ate locusts and wild honey."
 Matthew,3,5,People from Jerusalem and from all of Judea and all over the Jordan Valley went out to see and hear John.
 Matthew,3,6,"And when they confessed their sins, he baptized them in the Jordan River."
@@ -99,38 +60,26 @@ Matthew,3,11,“I baptize with water those who repent of their sins and turn to 
 Matthew,3,12,"He is ready to separate the chaff from the wheat with his winnowing fork. Then he will clean up the threshing area, gathering the wheat into his barn but burning the chaff with never-ending fire.”"
 Matthew,3,13,Then Jesus went from Galilee to the Jordan River to be baptized by John.
 Matthew,3,14,"But John tried to talk him out of it. “I am the one who needs to be baptized by you,” he said, “so why are you coming to me?”"
-Matthew,3,15,"But Jesus said, “It should be done, for we must carry out all that God requires.” So John agreed to baptize him."
+Matthew,3,15,"But Jesus said, “It should be done, for we must carry out all that God requires. ” So John agreed to baptize him."
 Matthew,3,16,"After his baptism, as Jesus came up out of the water, the heavens were opened and he saw the Spirit of God descending like a dove and settling on him."
 Matthew,3,17,"And a voice from heaven said, “This is my dearly loved Son, who brings me great joy.”"
 Matthew,4,1,Then Jesus was led by the Spirit into the wilderness to be tempted there by the devil.
 Matthew,4,2,For forty days and forty nights he fasted and became very hungry.
 Matthew,4,3,"During that time the devil came and said to him, “If you are the Son of God, tell these stones to become loaves of bread.”"
-Matthew,4,4,"But Jesus told him, “No! The Scriptures say,
-‘People do not live by bread alone,
-but by every word that comes from the mouth of God.’”"
-Matthew,4,5,"Then the devil took him to the holy city, Jerusalem, to the highest point of the Temple"
-Matthew,4,6,"and said, “If you are the Son of God, jump off! For the Scriptures say,
-‘He will order his angels to protect you.
-And they will hold you up with their hands
-so you won’t even hurt your foot on a stone.’”"
-Matthew,4,7,"Jesus responded, “The Scriptures also say, ‘You must not test the LORD your God.’”"
+Matthew,4,4,"But Jesus told him, “No! The Scriptures say, ‘People do not live by bread alone, but by every word that comes from the mouth of God.’ ”"
+Matthew,4,5,"Then the devil took him to the holy city, Jerusalem, to the highest point of the Temple,"
+Matthew,4,6,"and said, “If you are the Son of God, jump off! For the Scriptures say, ‘He will order his angels to protect you. And they will hold you up with their hands so you won’t even hurt your foot on a stone.’ ”"
+Matthew,4,7,"Jesus responded, “The Scriptures also say, ‘You must not test the Lord your God.’ ”"
 Matthew,4,8,Next the devil took him to the peak of a very high mountain and showed him all the kingdoms of the world and their glory.
 Matthew,4,9,"“I will give it all to you,” he said, “if you will kneel down and worship me.”"
-Matthew,4,10,"“Get out of here, Satan,” Jesus told him. “For the Scriptures say,
-‘You must worship the LORD your God
-and serve only him.’”"
+Matthew,4,10," “Get out of here, Satan,” Jesus told him. “For the Scriptures say, ‘You must worship the Lord your God and serve only him.’ ”"
 Matthew,4,11,"Then the devil went away, and angels came and took care of Jesus."
 Matthew,4,12,"When Jesus heard that John had been arrested, he left Judea and returned to Galilee."
 Matthew,4,13,"He went first to Nazareth, then left there and moved to Capernaum, beside the Sea of Galilee, in the region of Zebulun and Naphtali."
-Matthew,4,14,This fulfilled what God said through the prophet Isaiah
-Matthew,4,15,"“In the land of Zebulun and of Naphtali,
-beside the sea, beyond the Jordan River,
-in Galilee where so many Gentiles live"
-Matthew,4,16,"the people who sat in darkness
-have seen a great light.
-And for those who lived in the land where death casts its shadow,
-a light has shined.”"
-Matthew,4,17,"From then on Jesus began to preach, “Repent of your sins and turn to God, for the Kingdom of Heaven is near.”"
+Matthew,4,14,This fulfilled what God said through the prophet Isaiah:
+Matthew,4,15,"“In the land of Zebulun and of Naphtali, beside the sea, beyond the Jordan River, in Galilee where so many Gentiles live,"
+Matthew,4,16,"the people who sat in darkness have seen a great light. And for those who lived in the land where death casts its shadow, a light has shined.”"
+Matthew,4,17,"From then on Jesus began to preach, “Repent of your sins and turn to God, for the Kingdom of Heaven is near. ”"
 Matthew,4,18,"One day as Jesus was walking along the shore of the Sea of Galilee, he saw two brothers—Simon, also called Peter, and Andrew—throwing a net into the water, for they fished for a living."
 Matthew,4,19,"Jesus called out to them, “Come, follow me, and I will show you how to fish for people!”"
 Matthew,4,20,And they left their nets at once and followed him.
@@ -139,136 +88,122 @@ Matthew,4,22,"They immediately followed him, leaving the boat and their father b
 Matthew,4,23,"Jesus traveled throughout the region of Galilee, teaching in the synagogues and announcing the Good News about the Kingdom. And he healed every kind of disease and illness."
 Matthew,4,24,"News about him spread as far as Syria, and people soon began bringing to him all who were sick. And whatever their sickness or disease, or if they were demon possessed or epileptic or paralyzed—he healed them all."
 Matthew,4,25,"Large crowds followed him wherever he went—people from Galilee, the Ten Towns, Jerusalem, from all over Judea, and from east of the Jordan River."
-Matthew,5,1,"One day as he saw the crowds gathering, Jesus went up on the mountainside and sat down. His disciples gathered around him"
+Matthew,5,1,"One day as he saw the crowds gathering, Jesus went up on the mountainside and sat down. His disciples gathered around him,"
 Matthew,5,2,and he began to teach them.
-Matthew,5,3,"“God blesses those who are poor and realize their need for him,
-for the Kingdom of Heaven is theirs."
-Matthew,5,4,"God blesses those who mourn,
-for they will be comforted."
-Matthew,5,5,"God blesses those who are humble,
-for they will inherit the whole earth."
-Matthew,5,6,"God blesses those who hunger and thirst for justice,
-for they will be satisfied."
-Matthew,5,7,"God blesses those who are merciful,
-for they will be shown mercy."
-Matthew,5,8,"God blesses those whose hearts are pure,
-for they will see God."
-Matthew,5,9,"God blesses those who work for peace,
-for they will be called the children of God."
-Matthew,5,10,"God blesses those who are persecuted for doing right,
-for the Kingdom of Heaven is theirs."
-Matthew,5,11,“God blesses you when people mock you and persecute you and lie about you and say all sorts of evil things against you because you are my followers.
+Matthew,5,3," “God blesses those who are poor and realize their need for him, for the Kingdom of Heaven is theirs."
+Matthew,5,4," God blesses those who mourn, for they will be comforted."
+Matthew,5,5," God blesses those who are humble, for they will inherit the whole earth."
+Matthew,5,6," God blesses those who hunger and thirst for justice, for they will be satisfied."
+Matthew,5,7," God blesses those who are merciful, for they will be shown mercy."
+Matthew,5,8," God blesses those whose hearts are pure, for they will see God."
+Matthew,5,9," God blesses those who work for peace, for they will be called the children of God."
+Matthew,5,10," God blesses those who are persecuted for doing right, for the Kingdom of Heaven is theirs."
+Matthew,5,11, “God blesses you when people mock you and persecute you and lie about you and say all sorts of evil things against you because you are my followers.
 Matthew,5,12,"Be happy about it! Be very glad! For a great reward awaits you in heaven. And remember, the ancient prophets were persecuted in the same way."
-Matthew,5,13,“You are the salt of the earth. But what good is salt if it has lost its flavor? Can you make it salty again? It will be thrown out and trampled underfoot as worthless.
-Matthew,5,14,“You are the light of the world—like a city on a hilltop that cannot be hidden.
+Matthew,5,13, “You are the salt of the earth. But what good is salt if it has lost its flavor? Can you make it salty again? It will be thrown out and trampled underfoot as worthless.
+Matthew,5,14, “You are the light of the world—like a city on a hilltop that cannot be hidden.
 Matthew,5,15,"No one lights a lamp and then puts it under a basket. Instead, a lamp is placed on a stand, where it gives light to everyone in the house."
 Matthew,5,16,"In the same way, let your good deeds shine out for all to see, so that everyone will praise your heavenly Father."
-Matthew,5,17,"“Don’t misunderstand why I have come. I did not come to abolish the law of Moses or the writings of the prophets. No, I came to accomplish their purpose."
+Matthew,5,17," “Don’t misunderstand why I have come. I did not come to abolish the law of Moses or the writings of the prophets. No, I came to accomplish their purpose."
 Matthew,5,18,"I tell you the truth, until heaven and earth disappear, not even the smallest detail of God’s law will disappear until its purpose is achieved."
 Matthew,5,19,"So if you ignore the least commandment and teach others to do the same, you will be called the least in the Kingdom of Heaven. But anyone who obeys God’s laws and teaches them will be called great in the Kingdom of Heaven."
-Matthew,5,20,"“But I warn you—unless your righteousness is better than the righteousness of the teachers of religious law and the Pharisees, you will never enter the Kingdom of Heaven!"
-Matthew,5,21,"“You have heard that our ancestors were told, ‘You must not murder. If you commit murder, you are subject to judgment.’"
+Matthew,5,20," “But I warn you—unless your righteousness is better than the righteousness of the teachers of religious law and the Pharisees, you will never enter the Kingdom of Heaven!"
+Matthew,5,21," “You have heard that our ancestors were told, ‘You must not murder. If you commit murder, you are subject to judgment.’"
 Matthew,5,22,"But I say, if you are even angry with someone, you are subject to judgment! If you call someone an idiot, you are in danger of being brought before the court. And if you curse someone, you are in danger of the fires of hell."
-Matthew,5,23,“So if you are presenting a sacrifice at the altar in the Temple and you suddenly remember that someone has something against you
+Matthew,5,23," “So if you are presenting a sacrifice at the altar in the Temple and you suddenly remember that someone has something against you,"
 Matthew,5,24,leave your sacrifice there at the altar. Go and be reconciled to that person. Then come and offer your sacrifice to God.
-Matthew,5,25,"“When you are on the way to court with your adversary, settle your differences quickly. Otherwise, your accuser may hand you over to the judge, who will hand you over to an officer, and you will be thrown into prison."
+Matthew,5,25," “When you are on the way to court with your adversary, settle your differences quickly. Otherwise, your accuser may hand you over to the judge, who will hand you over to an officer, and you will be thrown into prison."
 Matthew,5,26,"And if that happens, you surely won’t be free again until you have paid the last penny."
-Matthew,5,27,"“You have heard the commandment that says, ‘You must not commit adultery.’"
+Matthew,5,27," “You have heard the commandment that says, ‘You must not commit adultery.’"
 Matthew,5,28,"But I say, anyone who even looks at a woman with lust has already committed adultery with her in his heart."
-Matthew,5,29,"So if your eye—even your good eye—causes you to lust, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell."
-Matthew,5,30,"And if your hand—even your stronger hand—causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell."
-Matthew,5,31,"“You have heard the law that says, ‘A man can divorce his wife by merely giving her a written notice of divorce.’"
+Matthew,5,29,"So if your eye—even your good eye —causes you to lust, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell."
+Matthew,5,30,"And if your hand—even your stronger hand —causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell."
+Matthew,5,31," “You have heard the law that says, ‘A man can divorce his wife by merely giving her a written notice of divorce.’"
 Matthew,5,32,"But I say that a man who divorces his wife, unless she has been unfaithful, causes her to commit adultery. And anyone who marries a divorced woman also commits adultery."
-Matthew,5,33,"“You have also heard that our ancestors were told, ‘You must not break your vows; you must carry out the vows you make to the LORD.’"
+Matthew,5,33," “You have also heard that our ancestors were told, ‘You must not break your vows; you must carry out the vows you make to the Lord .’"
 Matthew,5,34,"But I say, do not make any vows! Do not say, ‘By heaven!’ because heaven is God’s throne."
 Matthew,5,35,"And do not say, ‘By the earth!’ because the earth is his footstool. And do not say, ‘By Jerusalem!’ for Jerusalem is the city of the great King."
 Matthew,5,36,"Do not even say, ‘By my head!’ for you can’t turn one hair white or black."
 Matthew,5,37,"Just say a simple, ‘Yes, I will,’ or ‘No, I won’t.’ Anything beyond this is from the evil one."
-Matthew,5,38,"“You have heard the law that says the punishment must match the injury: ‘An eye for an eye, and a tooth for a tooth.’"
+Matthew,5,38," “You have heard the law that says the punishment must match the injury: ‘An eye for an eye, and a tooth for a tooth.’"
 Matthew,5,39,"But I say, do not resist an evil person! If someone slaps you on the right cheek, offer the other cheek also."
 Matthew,5,40,"If you are sued in court and your shirt is taken from you, give your coat, too."
 Matthew,5,41,"If a soldier demands that you carry his gear for a mile, carry it two miles."
 Matthew,5,42,"Give to those who ask, and don’t turn away from those who want to borrow."
-Matthew,5,43,"“You have heard the law that says, ‘Love your neighbor’ and hate your enemy."
+Matthew,5,43," “You have heard the law that says, ‘Love your neighbor’ and hate your enemy."
 Matthew,5,44,"But I say, love your enemies! Pray for those who persecute you!"
 Matthew,5,45,"In that way, you will be acting as true children of your Father in heaven. For he gives his sunlight to both the evil and the good, and he sends rain on the just and the unjust alike."
 Matthew,5,46,"If you love only those who love you, what reward is there for that? Even corrupt tax collectors do that much."
 Matthew,5,47,"If you are kind only to your friends, how are you different from anyone else? Even pagans do that."
 Matthew,5,48,"But you are to be perfect, even as your Father in heaven is perfect."
-Matthew,6,1,"“Watch out! Don’t do your good deeds publicly, to be admired by others, for you will lose the reward from your Father in heaven."
+Matthew,6,1," “Watch out! Don’t do your good deeds publicly, to be admired by others, for you will lose the reward from your Father in heaven."
 Matthew,6,2,"When you give to someone in need, don’t do as the hypocrites do—blowing trumpets in the synagogues and streets to call attention to their acts of charity! I tell you the truth, they have received all the reward they will ever get."
 Matthew,6,3,"But when you give to someone in need, don’t let your left hand know what your right hand is doing."
 Matthew,6,4,"Give your gifts in private, and your Father, who sees everything, will reward you."
-Matthew,6,5,"“When you pray, don’t be like the hypocrites who love to pray publicly on street corners and in the synagogues where everyone can see them. I tell you the truth, that is all the reward they will ever get."
+Matthew,6,5," “When you pray, don’t be like the hypocrites who love to pray publicly on street corners and in the synagogues where everyone can see them. I tell you the truth, that is all the reward they will ever get."
 Matthew,6,6,"But when you pray, go away by yourself, shut the door behind you, and pray to your Father in private. Then your Father, who sees everything, will reward you."
-Matthew,6,7,"“When you pray, don’t babble on and on as the Gentiles do. They think their prayers are answered merely by repeating their words again and again."
+Matthew,6,7," “When you pray, don’t babble on and on as the Gentiles do. They think their prayers are answered merely by repeating their words again and again."
 Matthew,6,8,"Don’t be like them, for your Father knows exactly what you need even before you ask him!"
-Matthew,6,9,"Pray like this:
-Our Father in heaven,
-may your name be kept holy."
-Matthew,6,10,"May your Kingdom come soon.
-May your will be done on earth,
-as it is in heaven."
-Matthew,6,11,Give us today the food we need
-Matthew,6,12,"and forgive us our sins,
-as we have forgiven those who sin against us."
-Matthew,6,13,"And don’t let us yield to temptation,
-but rescue us from the evil one."
-Matthew,6,14,"“If you forgive those who sin against you, your heavenly Father will forgive you."
+Matthew,6,9,"Pray like this: Our Father in heaven, may your name be kept holy."
+Matthew,6,10," May your Kingdom come soon. May your will be done on earth, as it is in heaven."
+Matthew,6,11," Give us today the food we need,"
+Matthew,6,12," and forgive us our sins, as we have forgiven those who sin against us."
+Matthew,6,13," And don’t let us yield to temptation, but rescue us from the evil one."
+Matthew,6,14," “If you forgive those who sin against you, your heavenly Father will forgive you."
 Matthew,6,15,"But if you refuse to forgive others, your Father will not forgive your sins."
-Matthew,6,16,"“And when you fast, don’t make it obvious, as the hypocrites do, for they try to look miserable and disheveled so people will admire them for their fasting. I tell you the truth, that is the only reward they will ever get."
+Matthew,6,16," “And when you fast, don’t make it obvious, as the hypocrites do, for they try to look miserable and disheveled so people will admire them for their fasting. I tell you the truth, that is the only reward they will ever get."
 Matthew,6,17,"But when you fast, comb your hair and wash your face."
 Matthew,6,18,"Then no one will notice that you are fasting, except your Father, who knows what you do in private. And your Father, who sees everything, will reward you."
-Matthew,6,19,"“Don’t store up treasures here on earth, where moths eat them and rust destroys them, and where thieves break in and steal."
+Matthew,6,19," “Don’t store up treasures here on earth, where moths eat them and rust destroys them, and where thieves break in and steal."
 Matthew,6,20,"Store your treasures in heaven, where moths and rust cannot destroy, and thieves do not break in and steal."
 Matthew,6,21,"Wherever your treasure is, there the desires of your heart will also be."
-Matthew,6,22,"“Your eye is like a lamp that provides light for your body. When your eye is healthy, your whole body is filled with light."
+Matthew,6,22," “Your eye is like a lamp that provides light for your body. When your eye is healthy, your whole body is filled with light."
 Matthew,6,23,"But when your eye is unhealthy, your whole body is filled with darkness. And if the light you think you have is actually darkness, how deep that darkness is!"
-Matthew,6,24,“No one can serve two masters. For you will hate one and love the other; you will be devoted to one and despise the other. You cannot serve God and be enslaved to money.
-Matthew,6,25,"“That is why I tell you not to worry about everyday life—whether you have enough food and drink, or enough clothes to wear. Isn’t life more than food, and your body more than clothing?"
+Matthew,6,24, “No one can serve two masters. For you will hate one and love the other; you will be devoted to one and despise the other. You cannot serve God and be enslaved to money.
+Matthew,6,25," “That is why I tell you not to worry about everyday life—whether you have enough food and drink, or enough clothes to wear. Isn’t life more than food, and your body more than clothing?"
 Matthew,6,26,"Look at the birds. They don’t plant or harvest or store food in barns, for your heavenly Father feeds them. And aren’t you far more valuable to him than they are?"
 Matthew,6,27,Can all your worries add a single moment to your life?
-Matthew,6,28,“And why worry about your clothing? Look at the lilies of the field and how they grow. They don’t work or make their clothing
+Matthew,6,28," “And why worry about your clothing? Look at the lilies of the field and how they grow. They don’t work or make their clothing,"
 Matthew,6,29,yet Solomon in all his glory was not dressed as beautifully as they are.
 Matthew,6,30,"And if God cares so wonderfully for wildflowers that are here today and thrown into the fire tomorrow, he will certainly care for you. Why do you have so little faith?"
-Matthew,6,31,"“So don’t worry about these things, saying, ‘What will we eat? What will we drink? What will we wear?’"
+Matthew,6,31," “So don’t worry about these things, saying, ‘What will we eat? What will we drink? What will we wear?’"
 Matthew,6,32,"These things dominate the thoughts of unbelievers, but your heavenly Father already knows all your needs."
 Matthew,6,33,"Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need."
-Matthew,6,34,"“So don’t worry about tomorrow, for tomorrow will bring its own worries. Today’s trouble is enough for today."
-Matthew,7,1,"“Do not judge others, and you will not be judged."
+Matthew,6,34," “So don’t worry about tomorrow, for tomorrow will bring its own worries. Today’s trouble is enough for today."
+Matthew,7,1," “Do not judge others, and you will not be judged."
 Matthew,7,2,For you will be treated as you treat others. The standard you use in judging is the standard by which you will be judged.
-Matthew,7,3,“And why worry about a speck in your friend’s eye when you have a log in your own?
+Matthew,7,3, “And why worry about a speck in your friend’s eye when you have a log in your own?
 Matthew,7,4,"How can you think of saying to your friend, ‘Let me help you get rid of that speck in your eye,’ when you can’t see past the log in your own eye?"
 Matthew,7,5,Hypocrite! First get rid of the log in your own eye; then you will see well enough to deal with the speck in your friend’s eye.
-Matthew,7,6,"“Don’t waste what is holy on people who are unholy. Don’t throw your pearls to pigs! They will trample the pearls, then turn and attack you."
-Matthew,7,7,"“Keep on asking, and you will receive what you ask for. Keep on seeking, and you will find. Keep on knocking, and the door will be opened to you."
+Matthew,7,6," “Don’t waste what is holy on people who are unholy. Don’t throw your pearls to pigs! They will trample the pearls, then turn and attack you."
+Matthew,7,7," “Keep on asking, and you will receive what you ask for. Keep on seeking, and you will find. Keep on knocking, and the door will be opened to you."
 Matthew,7,8,"For everyone who asks, receives. Everyone who seeks, finds. And to everyone who knocks, the door will be opened."
-Matthew,7,9,"“You parents—if your children ask for a loaf of bread, do you give them a stone instead?"
+Matthew,7,9," “You parents—if your children ask for a loaf of bread, do you give them a stone instead?"
 Matthew,7,10,"Or if they ask for a fish, do you give them a snake? Of course not!"
 Matthew,7,11,"So if you sinful people know how to give good gifts to your children, how much more will your heavenly Father give good gifts to those who ask him."
-Matthew,7,12,“Do to others whatever you would like them to do to you. This is the essence of all that is taught in the law and the prophets.
-Matthew,7,13,"“You can enter God’s Kingdom only through the narrow gate. The highway to hell is broad, and its gate is wide for the many who choose that way."
+Matthew,7,12, “Do to others whatever you would like them to do to you. This is the essence of all that is taught in the law and the prophets.
+Matthew,7,13," “You can enter God’s Kingdom only through the narrow gate. The highway to hell is broad, and its gate is wide for the many who choose that way."
 Matthew,7,14,"But the gateway to life is very narrow and the road is difficult, and only a few ever find it."
-Matthew,7,15,“Beware of false prophets who come disguised as harmless sheep but are really vicious wolves.
+Matthew,7,15, “Beware of false prophets who come disguised as harmless sheep but are really vicious wolves.
 Matthew,7,16,"You can identify them by their fruit, that is, by the way they act. Can you pick grapes from thornbushes, or figs from thistles?"
 Matthew,7,17,"A good tree produces good fruit, and a bad tree produces bad fruit."
 Matthew,7,18,"A good tree can’t produce bad fruit, and a bad tree can’t produce good fruit."
 Matthew,7,19,So every tree that does not produce good fruit is chopped down and thrown into the fire.
 Matthew,7,20,"Yes, just as you can identify a tree by its fruit, so you can identify people by their actions."
-Matthew,7,21,"“Not everyone who calls out to me, ‘Lord! Lord!’ will enter the Kingdom of Heaven. Only those who actually do the will of my Father in heaven will enter."
+Matthew,7,21," “Not everyone who calls out to me, ‘Lord! Lord!’ will enter the Kingdom of Heaven. Only those who actually do the will of my Father in heaven will enter."
 Matthew,7,22,"On judgment day many will say to me, ‘Lord! Lord! We prophesied in your name and cast out demons in your name and performed many miracles in your name.’"
 Matthew,7,23,"But I will reply, ‘I never knew you. Get away from me, you who break God’s laws.’"
-Matthew,7,24,"“Anyone who listens to my teaching and follows it is wise, like a person who builds a house on solid rock."
+Matthew,7,24," “Anyone who listens to my teaching and follows it is wise, like a person who builds a house on solid rock."
 Matthew,7,25,"Though the rain comes in torrents and the floodwaters rise and the winds beat against that house, it won’t collapse because it is built on bedrock."
 Matthew,7,26,"But anyone who hears my teaching and doesn’t obey it is foolish, like a person who builds a house on sand."
 Matthew,7,27,"When the rains and floods come and the winds beat against that house, it will collapse with a mighty crash.”"
-Matthew,7,28,"When Jesus had finished saying these things, the crowds were amazed at his teaching"
+Matthew,7,28,"When Jesus had finished saying these things, the crowds were amazed at his teaching,"
 Matthew,7,29,for he taught with real authority—quite unlike their teachers of religious law.
 Matthew,8,1,Large crowds followed Jesus as he came down the mountainside.
 Matthew,8,2,"Suddenly, a man with leprosy approached him and knelt before him. “Lord,” the man said, “if you are willing, you can heal me and make me clean.”"
 Matthew,8,3,"Jesus reached out and touched him. “I am willing,” he said. “Be healed!” And instantly the leprosy disappeared."
 Matthew,8,4,"Then Jesus said to him, “Don’t tell anyone about this. Instead, go to the priest and let him examine you. Take along the offering required in the law of Moses for those who have been healed of leprosy. This will be a public testimony that you have been cleansed.”"
-Matthew,8,5,"When Jesus returned to Capernaum, a Roman officer came and pleaded with him"
+Matthew,8,5,"When Jesus returned to Capernaum, a Roman officer came and pleaded with him,"
 Matthew,8,6,"“Lord, my young servant lies in bed, paralyzed and in terrible pain.”"
 Matthew,8,7,"Jesus said, “I will come and heal him.”"
 Matthew,8,8,"But the officer said, “Lord, I am not worthy to have you come into my home. Just say the word from where you are, and my servant will be healed."
@@ -280,14 +215,12 @@ Matthew,8,13,"Then Jesus said to the Roman officer, “Go back home. Because you
 Matthew,8,14,"When Jesus arrived at Peter’s house, Peter’s mother-in-law was sick in bed with a high fever."
 Matthew,8,15,"But when Jesus touched her hand, the fever left her. Then she got up and prepared a meal for him."
 Matthew,8,16,"That evening many demon-possessed people were brought to Jesus. He cast out the evil spirits with a simple command, and he healed all the sick."
-Matthew,8,17,"This fulfilled the word of the Lord through the prophet Isaiah, who said,
-“He took our sicknesses
-and removed our diseases.”"
+Matthew,8,17,"This fulfilled the word of the Lord through the prophet Isaiah, who said, “He took our sicknesses and removed our diseases.”"
 Matthew,8,18,"When Jesus saw the crowd around him, he instructed his disciples to cross to the other side of the lake."
 Matthew,8,19,"Then one of the teachers of religious law said to him, “Teacher, I will follow you wherever you go.”"
 Matthew,8,20,"But Jesus replied, “Foxes have dens to live in, and birds have nests, but the Son of Man has no place even to lay his head.”"
 Matthew,8,21,"Another of his disciples said, “Lord, first let me return home and bury my father.”"
-Matthew,8,22,"But Jesus told him, “Follow me now. Let the spiritually dead bury their own dead.”"
+Matthew,8,22,"But Jesus told him, “Follow me now. Let the spiritually dead bury their own dead. ”"
 Matthew,8,23,Then Jesus got into the boat and started across the lake with his disciples.
 Matthew,8,24,"Suddenly, a fierce storm struck the lake, with waves breaking into the boat. But Jesus was sleeping."
 Matthew,8,25,"The disciples went and woke him up, shouting, “Lord, save us! We’re going to drown!”"
@@ -297,7 +230,7 @@ Matthew,8,28,"When Jesus arrived on the other side of the lake, in the region of
 Matthew,8,29,"They began screaming at him, “Why are you interfering with us, Son of God? Have you come here to torture us before God’s appointed time?”"
 Matthew,8,30,There happened to be a large herd of pigs feeding in the distance.
 Matthew,8,31,"So the demons begged, “If you cast us out, send us into that herd of pigs.”"
-Matthew,8,32,"“All right, go!” Jesus commanded them. So the demons came out of the men and entered the pigs, and the whole herd plunged down the steep hillside into the lake and drowned in the water."
+Matthew,8,32," “All right, go!” Jesus commanded them. So the demons came out of the men and entered the pigs, and the whole herd plunged down the steep hillside into the lake and drowned in the water."
 Matthew,8,33,"The herdsmen fled to the nearby town, telling everyone what happened to the demon-possessed men."
 Matthew,8,34,"Then the entire town came out to meet Jesus, but they begged him to go away and leave them alone."
 Matthew,9,1,Jesus climbed into a boat and went back across the lake to his own town.
@@ -310,16 +243,16 @@ Matthew,9,7,And the man jumped up and went home!
 Matthew,9,8,Fear swept through the crowd as they saw this happen. And they praised God for giving humans such authority.
 Matthew,9,9,"As Jesus was walking along, he saw a man named Matthew sitting at his tax collector’s booth. “Follow me and be my disciple,” Jesus said to him. So Matthew got up and followed him."
 Matthew,9,10,"Later, Matthew invited Jesus and his disciples to his home as dinner guests, along with many tax collectors and other disreputable sinners."
-Matthew,9,11,"But when the Pharisees saw this, they asked his disciples, “Why does your teacher eat with such scum?”"
+Matthew,9,11,"But when the Pharisees saw this, they asked his disciples, “Why does your teacher eat with such scum? ”"
 Matthew,9,12,"When Jesus heard this, he said, “Healthy people don’t need a doctor—sick people do.”"
 Matthew,9,13,"Then he added, “Now go and learn the meaning of this Scripture: ‘I want you to show mercy, not offer sacrifices.’ For I have come to call not those who think they are righteous, but those who know they are sinners.”"
 Matthew,9,14,"One day the disciples of John the Baptist came to Jesus and asked him, “Why don’t your disciples fast like we do and the Pharisees do?”"
 Matthew,9,15,"Jesus replied, “Do wedding guests mourn while celebrating with the groom? Of course not. But someday the groom will be taken away from them, and then they will fast."
-Matthew,9,16,"“Besides, who would patch old clothing with new cloth? For the new patch would shrink and rip away from the old cloth, leaving an even bigger tear than before."
-Matthew,9,17,"“And no one puts new wine into old wineskins. For the old skins would burst from the pressure, spilling the wine and ruining the skins. New wine is stored in new wineskins so that both are preserved.”"
+Matthew,9,16," “Besides, who would patch old clothing with new cloth? For the new patch would shrink and rip away from the old cloth, leaving an even bigger tear than before."
+Matthew,9,17," “And no one puts new wine into old wineskins. For the old skins would burst from the pressure, spilling the wine and ruining the skins. New wine is stored in new wineskins so that both are preserved.”"
 Matthew,9,18,"As Jesus was saying this, the leader of a synagogue came and knelt before him. “My daughter has just died,” he said, “but you can bring her back to life again if you just come and lay your hand on her.”"
 Matthew,9,19,So Jesus and his disciples got up and went with him.
-Matthew,9,20,Just then a woman who had suffered for twelve years with constant bleeding came up behind him. She touched the fringe of his robe
+Matthew,9,20,"Just then a woman who had suffered for twelve years with constant bleeding came up behind him. She touched the fringe of his robe,"
 Matthew,9,21,"for she thought, “If I can just touch his robe, I will be healed.”"
 Matthew,9,22,"Jesus turned around, and when he saw her he said, “Daughter, be encouraged! Your faith has made you well.” And the woman was healed at that moment."
 Matthew,9,23,"When Jesus arrived at the official’s home, he saw the noisy crowd and heard the funeral music."
@@ -327,8 +260,7 @@ Matthew,9,24,“Get out!” he told them. “The girl isn’t dead; she’s only
 Matthew,9,25,"After the crowd was put outside, however, Jesus went in and took the girl by the hand, and she stood up!"
 Matthew,9,26,The report of this miracle swept through the entire countryside.
 Matthew,9,27,"After Jesus left the girl’s home, two blind men followed along behind him, shouting, “Son of David, have mercy on us!”"
-Matthew,9,28,"They went right into the house where he was staying, and Jesus asked them, “Do you believe I can make you see?”
-“Yes, Lord,” they told him, “we do.”"
+Matthew,9,28,"They went right into the house where he was staying, and Jesus asked them, “Do you believe I can make you see?” “Yes, Lord,” they told him, “we do.”"
 Matthew,9,29,"Then he touched their eyes and said, “Because of your faith, it will happen.”"
 Matthew,9,30,"Then their eyes were opened, and they could see! Jesus sternly warned them, “Don’t tell anyone about this.”"
 Matthew,9,31,"But instead, they went out and spread his fame all over the region."
@@ -340,91 +272,74 @@ Matthew,9,36,"When he saw the crowds, he had compassion on them because they wer
 Matthew,9,37,"He said to his disciples, “The harvest is great, but the workers are few."
 Matthew,9,38,So pray to the Lord who is in charge of the harvest; ask him to send more workers into his fields.”
 Matthew,10,1,Jesus called his twelve disciples together and gave them authority to cast out evil spirits and to heal every kind of disease and illness.
-Matthew,10,2,"Here are the names of the twelve apostles:
-first, Simon (also called Peter),
-then Andrew (Peter’s brother),
-James (son of Zebedee),
-John (James’s brother)"
-Matthew,10,3,"Philip,
-Bartholomew,
-Thomas,
-Matthew (the tax collector),
-James (son of Alphaeus),
-Thaddaeus"
-Matthew,10,4,"Simon (the zealot),
-Judas Iscariot (who later betrayed him)."
-Matthew,10,5,Jesus sent out the twelve apostles with these instructions: “Don’t go to the Gentiles or the Samaritans
+Matthew,10,2,"Here are the names of the twelve apostles: first, Simon (also called Peter), then Andrew (Peter’s brother), James (son of Zebedee), John (James’s brother),"
+Matthew,10,3,"Philip, Bartholomew, Thomas, Matthew (the tax collector), James (son of Alphaeus), Thaddaeus,"
+Matthew,10,4,"Simon (the zealot ), Judas Iscariot (who later betrayed him)."
+Matthew,10,5,"Jesus sent out the twelve apostles with these instructions: “Don’t go to the Gentiles or the Samaritans,"
 Matthew,10,6,but only to the people of Israel—God’s lost sheep.
 Matthew,10,7,Go and announce to them that the Kingdom of Heaven is near.
 Matthew,10,8,"Heal the sick, raise the dead, cure those with leprosy, and cast out demons. Give as freely as you have received!"
-Matthew,10,9,"“Don’t take any money in your money belts—no gold, silver, or even copper coins."
+Matthew,10,9," “Don’t take any money in your money belts—no gold, silver, or even copper coins."
 Matthew,10,10,"Don’t carry a traveler’s bag with a change of clothes and sandals or even a walking stick. Don’t hesitate to accept hospitality, because those who work deserve to be fed."
-Matthew,10,11,"“Whenever you enter a city or village, search for a worthy person and stay in his home until you leave town."
+Matthew,10,11," “Whenever you enter a city or village, search for a worthy person and stay in his home until you leave town."
 Matthew,10,12,"When you enter the home, give it your blessing."
 Matthew,10,13,"If it turns out to be a worthy home, let your blessing stand; if it is not, take back the blessing."
 Matthew,10,14,"If any household or town refuses to welcome you or listen to your message, shake its dust from your feet as you leave."
 Matthew,10,15,"I tell you the truth, the wicked cities of Sodom and Gomorrah will be better off than such a town on the judgment day."
-Matthew,10,16,"“Look, I am sending you out as sheep among wolves. So be as shrewd as snakes and harmless as doves."
+Matthew,10,16," “Look, I am sending you out as sheep among wolves. So be as shrewd as snakes and harmless as doves."
 Matthew,10,17,But beware! For you will be handed over to the courts and will be flogged with whips in the synagogues.
 Matthew,10,18,You will stand trial before governors and kings because you are my followers. But this will be your opportunity to tell the rulers and other unbelievers about me.
 Matthew,10,19,"When you are arrested, don’t worry about how to respond or what to say. God will give you the right words at the right time."
 Matthew,10,20,For it is not you who will be speaking—it will be the Spirit of your Father speaking through you.
-Matthew,10,21,"“A brother will betray his brother to death, a father will betray his own child, and children will rebel against their parents and cause them to be killed."
+Matthew,10,21," “A brother will betray his brother to death, a father will betray his own child, and children will rebel against their parents and cause them to be killed."
 Matthew,10,22,And all nations will hate you because you are my followers. But everyone who endures to the end will be saved.
 Matthew,10,23,"When you are persecuted in one town, flee to the next. I tell you the truth, the Son of Man will return before you have reached all the towns of Israel."
-Matthew,10,24,"“Students are not greater than their teacher, and slaves are not greater than their master."
+Matthew,10,24," “Students are not greater than their teacher, and slaves are not greater than their master."
 Matthew,10,25,"Students are to be like their teacher, and slaves are to be like their master. And since I, the master of the household, have been called the prince of demons, the members of my household will be called by even worse names!"
-Matthew,10,26,"“But don’t be afraid of those who threaten you. For the time is coming when everything that is covered will be revealed, and all that is secret will be made known to all."
+Matthew,10,26," “But don’t be afraid of those who threaten you. For the time is coming when everything that is covered will be revealed, and all that is secret will be made known to all."
 Matthew,10,27,"What I tell you now in the darkness, shout abroad when daybreak comes. What I whisper in your ear, shout from the housetops for all to hear!"
-Matthew,10,28,"“Don’t be afraid of those who want to kill your body; they cannot touch your soul. Fear only God, who can destroy both soul and body in hell."
-Matthew,10,29,What is the price of two sparrows—one copper coin? But not a single sparrow can fall to the ground without your Father knowing it.
+Matthew,10,28," “Don’t be afraid of those who want to kill your body; they cannot touch your soul. Fear only God, who can destroy both soul and body in hell."
+Matthew,10,29,What is the price of two sparrows—one copper coin ? But not a single sparrow can fall to the ground without your Father knowing it.
 Matthew,10,30,And the very hairs on your head are all numbered.
 Matthew,10,31,So don’t be afraid; you are more valuable to God than a whole flock of sparrows.
-Matthew,10,32,"“Everyone who acknowledges me publicly here on earth, I will also acknowledge before my Father in heaven."
+Matthew,10,32," “Everyone who acknowledges me publicly here on earth, I will also acknowledge before my Father in heaven."
 Matthew,10,33,"But everyone who denies me here on earth, I will also deny before my Father in heaven."
-Matthew,10,34,"“Don’t imagine that I came to bring peace to the earth! I came not to bring peace, but a sword."
-Matthew,10,35,"‘I have come to set a man against his father,
-a daughter against her mother,
-and a daughter-in-law against her mother-in-law."
-Matthew,10,36,Your enemies will be right in your own household!’
-Matthew,10,37,"“If you love your father or mother more than you love me, you are not worthy of being mine; or if you love your son or daughter more than me, you are not worthy of being mine."
+Matthew,10,34," “Don’t imagine that I came to bring peace to the earth! I came not to bring peace, but a sword."
+Matthew,10,35," ‘I have come to set a man against his father, a daughter against her mother, and a daughter-in-law against her mother-in-law."
+Matthew,10,36, Your enemies will be right in your own household!’
+Matthew,10,37," “If you love your father or mother more than you love me, you are not worthy of being mine; or if you love your son or daughter more than me, you are not worthy of being mine."
 Matthew,10,38,"If you refuse to take up your cross and follow me, you are not worthy of being mine."
 Matthew,10,39,"If you cling to your life, you will lose it; but if you give up your life for me, you will find it."
-Matthew,10,40,"“Anyone who receives you receives me, and anyone who receives me receives the Father who sent me."
+Matthew,10,40," “Anyone who receives you receives me, and anyone who receives me receives the Father who sent me."
 Matthew,10,41,"If you receive a prophet as one who speaks for God, you will be given the same reward as a prophet. And if you receive righteous people because of their righteousness, you will be given a reward like theirs."
 Matthew,10,42,"And if you give even a cup of cold water to one of the least of my followers, you will surely be rewarded.”"
 Matthew,11,1,"When Jesus had finished giving these instructions to his twelve disciples, he went out to teach and preach in towns throughout the region."
-Matthew,11,2,"John the Baptist, who was in prison, heard about all the things the Messiah was doing. So he sent his disciples to ask Jesus"
+Matthew,11,2,"John the Baptist, who was in prison, heard about all the things the Messiah was doing. So he sent his disciples to ask Jesus,"
 Matthew,11,3,"“Are you the Messiah we’ve been expecting, or should we keep looking for someone else?”"
-Matthew,11,4,"Jesus told them, “Go back to John and tell him what you have heard and seen"
+Matthew,11,4,"Jesus told them, “Go back to John and tell him what you have heard and seen—"
 Matthew,11,5,"the blind see, the lame walk, those with leprosy are cured, the deaf hear, the dead are raised to life, and the Good News is being preached to the poor.”"
-Matthew,11,6,"And he added, “God blesses those who do not fall away because of me.”"
+Matthew,11,6,"And he added, “God blesses those who do not fall away because of me. ”"
 Matthew,11,7,"As John’s disciples were leaving, Jesus began talking about him to the crowds. “What kind of man did you go into the wilderness to see? Was he a weak reed, swayed by every breath of wind?"
 Matthew,11,8,"Or were you expecting to see a man dressed in expensive clothes? No, people with expensive clothes live in palaces."
 Matthew,11,9,"Were you looking for a prophet? Yes, and he is more than a prophet."
-Matthew,11,10,"John is the man to whom the Scriptures refer when they say,
-‘Look, I am sending my messenger ahead of you,
-and he will prepare your way before you.’"
-Matthew,11,11,"“I tell you the truth, of all who have ever lived, none is greater than John the Baptist. Yet even the least person in the Kingdom of Heaven is greater than he is!"
+Matthew,11,10,"John is the man to whom the Scriptures refer when they say, ‘Look, I am sending my messenger ahead of you, and he will prepare your way before you.’"
+Matthew,11,11," “I tell you the truth, of all who have ever lived, none is greater than John the Baptist. Yet even the least person in the Kingdom of Heaven is greater than he is!"
 Matthew,11,12,"And from the time John the Baptist began preaching until now, the Kingdom of Heaven has been forcefully advancing, and violent people are attacking it."
 Matthew,11,13,"For before John came, all the prophets and the law of Moses looked forward to this present time."
 Matthew,11,14,"And if you are willing to accept what I say, he is Elijah, the one the prophets said would come."
 Matthew,11,15,Anyone with ears to hear should listen and understand!
-Matthew,11,16,“To what can I compare this generation? It is like children playing a game in the public square. They complain to their friends
-Matthew,11,17,"‘We played wedding songs,
-and you didn’t dance,
-so we played funeral songs,
-and you didn’t mourn.’"
-Matthew,11,18,"For John didn’t spend his time eating and drinking, and you say, ‘He’s possessed by a demon.’"
+Matthew,11,16," “To what can I compare this generation? It is like children playing a game in the public square. They complain to their friends,"
+Matthew,11,17," ‘We played wedding songs, and you didn’t dance, so we played funeral songs, and you didn’t mourn.’"
+Matthew,11,18," For John didn’t spend his time eating and drinking, and you say, ‘He’s possessed by a demon.’"
 Matthew,11,19,"The Son of Man, on the other hand, feasts and drinks, and you say, ‘He’s a glutton and a drunkard, and a friend of tax collectors and other sinners!’ But wisdom is shown to be right by its results.”"
 Matthew,11,20,"Then Jesus began to denounce the towns where he had done so many of his miracles, because they hadn’t repented of their sins and turned to God."
 Matthew,11,21,"“What sorrow awaits you, Korazin and Bethsaida! For if the miracles I did in you had been done in wicked Tyre and Sidon, their people would have repented of their sins long ago, clothing themselves in burlap and throwing ashes on their heads to show their remorse."
 Matthew,11,22,"I tell you, Tyre and Sidon will be better off on judgment day than you."
-Matthew,11,23,"“And you people of Capernaum, will you be honored in heaven? No, you will go down to the place of the dead. For if the miracles I did for you had been done in wicked Sodom, it would still be here today."
+Matthew,11,23," “And you people of Capernaum, will you be honored in heaven? No, you will go down to the place of the dead. For if the miracles I did for you had been done in wicked Sodom, it would still be here today."
 Matthew,11,24,"I tell you, even Sodom will be better off on judgment day than you.”"
 Matthew,11,25,"At that time Jesus prayed this prayer: “O Father, Lord of heaven and earth, thank you for hiding these things from those who think themselves wise and clever, and for revealing them to the childlike."
 Matthew,11,26,"Yes, Father, it pleased you to do it this way!"
-Matthew,11,27,"“My Father has entrusted everything to me. No one truly knows the Son except the Father, and no one truly knows the Father except the Son and those to whom the Son chooses to reveal him.”"
+Matthew,11,27," “My Father has entrusted everything to me. No one truly knows the Son except the Father, and no one truly knows the Father except the Son and those to whom the Son chooses to reveal him.”"
 Matthew,11,28,"Then Jesus said, “Come to me, all of you who are weary and carry heavy burdens, and I will give you rest."
 Matthew,11,29,"Take my yoke upon you. Let me teach you, because I am humble and gentle at heart, and you will find rest for your souls."
 Matthew,11,30,"For my yoke is easy to bear, and the burden I give you is light.”"
@@ -436,26 +351,19 @@ Matthew,12,5,And haven’t you read in the law of Moses that the priests on duty
 Matthew,12,6,"I tell you, there is one here who is even greater than the Temple!"
 Matthew,12,7,"But you would not have condemned my innocent disciples if you knew the meaning of this Scripture: ‘I want you to show mercy, not offer sacrifices.’"
 Matthew,12,8,"For the Son of Man is Lord, even over the Sabbath!”"
-Matthew,12,9,Then Jesus went over to their synagogue
+Matthew,12,9,"Then Jesus went over to their synagogue,"
 Matthew,12,10,"where he noticed a man with a deformed hand. The Pharisees asked Jesus, “Does the law permit a person to work by healing on the Sabbath?” (They were hoping he would say yes, so they could bring charges against him.)"
 Matthew,12,11,"And he answered, “If you had a sheep that fell into a well on the Sabbath, wouldn’t you work to pull it out? Of course you would."
 Matthew,12,12,"And how much more valuable is a person than a sheep! Yes, the law permits a person to do good on the Sabbath.”"
 Matthew,12,13,"Then he said to the man, “Hold out your hand.” So the man held out his hand, and it was restored, just like the other one!"
 Matthew,12,14,Then the Pharisees called a meeting to plot how to kill Jesus.
-Matthew,12,15,"But Jesus knew what they were planning. So he left that area, and many people followed him. He healed all the sick among them"
+Matthew,12,15,"But Jesus knew what they were planning. So he left that area, and many people followed him. He healed all the sick among them,"
 Matthew,12,16,but he warned them not to reveal who he was.
-Matthew,12,17,This fulfilled the prophecy of Isaiah concerning him
-Matthew,12,18,"“Look at my Servant, whom I have chosen.
-He is my Beloved, who pleases me.
-I will put my Spirit upon him,
-and he will proclaim justice to the nations."
-Matthew,12,19,"He will not fight or shout
-or raise his voice in public."
-Matthew,12,20,"He will not crush the weakest reed
-or put out a flickering candle.
-Finally he will cause justice to be victorious."
-Matthew,12,21,"And his name will be the hope
-of all the world.”"
+Matthew,12,17,This fulfilled the prophecy of Isaiah concerning him:
+Matthew,12,18,"“Look at my Servant, whom I have chosen. He is my Beloved, who pleases me. I will put my Spirit upon him, and he will proclaim justice to the nations."
+Matthew,12,19,He will not fight or shout or raise his voice in public.
+Matthew,12,20,He will not crush the weakest reed or put out a flickering candle. Finally he will cause justice to be victorious.
+Matthew,12,21,And his name will be the hope of all the world.”
 Matthew,12,22,"Then a demon-possessed man, who was blind and couldn’t speak, was brought to Jesus. He healed the man so that he could both speak and see."
 Matthew,12,23,"The crowd was amazed and asked, “Could it be that Jesus is the Son of David, the Messiah?”"
 Matthew,12,24,"But when the Pharisees heard about the miracle, they said, “No wonder he can cast out demons. He gets his power from Satan, the prince of demons.”"
@@ -464,10 +372,10 @@ Matthew,12,26,"And if Satan is casting out Satan, he is divided and fighting aga
 Matthew,12,27,"And if I am empowered by Satan, what about your own exorcists? They cast out demons, too, so they will condemn you for what you have said."
 Matthew,12,28,"But if I am casting out demons by the Spirit of God, then the Kingdom of God has arrived among you."
 Matthew,12,29,For who is powerful enough to enter the house of a strong man and plunder his goods? Only someone even stronger—someone who could tie him up and then plunder his house.
-Matthew,12,30,"“Anyone who isn’t with me opposes me, and anyone who isn’t working with me is actually working against me."
-Matthew,12,31,"“So I tell you, every sin and blasphemy can be forgiven—except blasphemy against the Holy Spirit, which will never be forgiven."
+Matthew,12,30," “Anyone who isn’t with me opposes me, and anyone who isn’t working with me is actually working against me."
+Matthew,12,31," “So I tell you, every sin and blasphemy can be forgiven—except blasphemy against the Holy Spirit, which will never be forgiven."
 Matthew,12,32,"Anyone who speaks against the Son of Man can be forgiven, but anyone who speaks against the Holy Spirit will never be forgiven, either in this world or in the world to come."
-Matthew,12,33,"“A tree is identified by its fruit. If a tree is good, its fruit will be good. If a tree is bad, its fruit will be bad."
+Matthew,12,33," “A tree is identified by its fruit. If a tree is good, its fruit will be good. If a tree is bad, its fruit will be bad."
 Matthew,12,34,You brood of snakes! How could evil men like you speak what is good and right? For whatever is in your heart determines what you say.
 Matthew,12,35,"A good person produces good things from the treasury of a good heart, and an evil person produces evil things from the treasury of an evil heart."
 Matthew,12,36,"And I tell you this, you must give an account on judgment day for every idle word you speak."
@@ -475,9 +383,9 @@ Matthew,12,37,The words you say will either acquit you or condemn you.”
 Matthew,12,38,"One day some teachers of religious law and Pharisees came to Jesus and said, “Teacher, we want you to show us a miraculous sign to prove your authority.”"
 Matthew,12,39,"But Jesus replied, “Only an evil, adulterous generation would demand a miraculous sign; but the only sign I will give them is the sign of the prophet Jonah."
 Matthew,12,40,"For as Jonah was in the belly of the great fish for three days and three nights, so will the Son of Man be in the heart of the earth for three days and three nights."
-Matthew,12,41,"“The people of Nineveh will stand up against this generation on judgment day and condemn it, for they repented of their sins at the preaching of Jonah. Now someone greater than Jonah is here—but you refuse to repent."
+Matthew,12,41," “The people of Nineveh will stand up against this generation on judgment day and condemn it, for they repented of their sins at the preaching of Jonah. Now someone greater than Jonah is here—but you refuse to repent."
 Matthew,12,42,"The queen of Sheba will also stand up against this generation on judgment day and condemn it, for she came from a distant land to hear the wisdom of Solomon. Now someone greater than Solomon is here—but you refuse to listen."
-Matthew,12,43,"“When an evil spirit leaves a person, it goes into the desert, seeking rest but finding none."
+Matthew,12,43," “When an evil spirit leaves a person, it goes into the desert, seeking rest but finding none."
 Matthew,12,44,"Then it says, ‘I will return to the person I came from.’ So it returns and finds its former home empty, swept, and in order."
 Matthew,12,45,"Then the spirit finds seven other spirits more evil than itself, and they all enter the person and live there. And so that person is worse off than before. That will be the experience of this evil generation.”"
 Matthew,12,46,"As Jesus was speaking to the crowd, his mother and brothers stood outside, asking to speak to him."
@@ -487,8 +395,7 @@ Matthew,12,49,"Then he pointed to his disciples and said, “Look, these are my 
 Matthew,12,50,Anyone who does the will of my Father in heaven is my brother and sister and mother!”
 Matthew,13,1,Later that same day Jesus left the house and sat beside the lake.
 Matthew,13,2,"A large crowd soon gathered around him, so he got into a boat. Then he sat there and taught as the people stood on the shore."
-Matthew,13,3,"He told many stories in the form of parables, such as this one:
-“Listen! A farmer went out to plant some seeds."
+Matthew,13,3,"He told many stories in the form of parables, such as this one: “Listen! A farmer went out to plant some seeds."
 Matthew,13,4,"As he scattered them across his field, some seeds fell on a footpath, and the birds came and ate them."
 Matthew,13,5,Other seeds fell on shallow soil with underlying rock. The seeds sprouted quickly because the soil was shallow.
 Matthew,13,6,"But the plants soon wilted under the hot sun, and since they didn’t have deep roots, they died."
@@ -498,25 +405,12 @@ Matthew,13,9,Anyone with ears to hear should listen and understand.”
 Matthew,13,10,"His disciples came and asked him, “Why do you use parables when you talk to the people?”"
 Matthew,13,11,"He replied, “You are permitted to understand the secrets of the Kingdom of Heaven, but others are not."
 Matthew,13,12,"To those who listen to my teaching, more understanding will be given, and they will have an abundance of knowledge. But for those who are not listening, even what little understanding they have will be taken away from them."
-Matthew,13,13,"That is why I use these parables,
-For they look, but they don’t really see.
-They hear, but they don’t really listen or understand."
-Matthew,13,14,"This fulfills the prophecy of Isaiah that says,
-‘When you hear what I say,
-you will not understand.
-When you see what I do,
-you will not comprehend."
-Matthew,13,15,"For the hearts of these people are hardened,
-and their ears cannot hear,
-and they have closed their eyes—
-so their eyes cannot see,
-and their ears cannot hear,
-and their hearts cannot understand,
-and they cannot turn to me
-and let me heal them.’"
-Matthew,13,16,"“But blessed are your eyes, because they see; and your ears, because they hear."
+Matthew,13,13,"That is why I use these parables, For they look, but they don’t really see. They hear, but they don’t really listen or understand."
+Matthew,13,14," This fulfills the prophecy of Isaiah that says, ‘When you hear what I say, you will not understand. When you see what I do, you will not comprehend."
+Matthew,13,15," For the hearts of these people are hardened, and their ears cannot hear, and they have closed their eyes— so their eyes cannot see, and their ears cannot hear, and their hearts cannot understand, and they cannot turn to me and let me heal them.’"
+Matthew,13,16," “But blessed are your eyes, because they see; and your ears, because they hear."
 Matthew,13,17,"I tell you the truth, many prophets and righteous people longed to see what you see, but they didn’t see it. And they longed to hear what you hear, but they didn’t hear it."
-Matthew,13,18,“Now listen to the explanation of the parable about the farmer planting seeds
+Matthew,13,18, “Now listen to the explanation of the parable about the farmer planting seeds:
 Matthew,13,19,The seed that fell on the footpath represents those who hear the message about the Kingdom and don’t understand it. Then the evil one comes and snatches away the seed that was planted in their hearts.
 Matthew,13,20,The seed on the rocky soil represents those who hear the message and immediately receive it with joy.
 Matthew,13,21,"But since they don’t have deep roots, they don’t last long. They fall away as soon as they have problems or are persecuted for believing God’s word."
@@ -525,53 +419,48 @@ Matthew,13,23,"The seed that fell on good soil represents those who truly hear a
 Matthew,13,24,Here is another story Jesus told: “The Kingdom of Heaven is like a farmer who planted good seed in his field.
 Matthew,13,25,"But that night as the workers slept, his enemy came and planted weeds among the wheat, then slipped away."
 Matthew,13,26,"When the crop began to grow and produce grain, the weeds also grew."
-Matthew,13,27,"“The farmer’s workers went to him and said, ‘Sir, the field where you planted that good seed is full of weeds! Where did they come from?’"
-Matthew,13,28,"“‘An enemy has done this!’ the farmer exclaimed.
-“‘Should we pull out the weeds?’ they asked."
-Matthew,13,29,"“‘No,’ he replied, ‘you’ll uproot the wheat if you do."
+Matthew,13,27," “The farmer’s workers went to him and said, ‘Sir, the field where you planted that good seed is full of weeds! Where did they come from?’"
+Matthew,13,28, “‘An enemy has done this!’ the farmer exclaimed. “‘Should we pull out the weeds?’ they asked.
+Matthew,13,29," “‘No,’ he replied, ‘you’ll uproot the wheat if you do."
 Matthew,13,30,"Let both grow together until the harvest. Then I will tell the harvesters to sort out the weeds, tie them into bundles, and burn them, and to put the wheat in the barn.’”"
 Matthew,13,31,Here is another illustration Jesus used: “The Kingdom of Heaven is like a mustard seed planted in a field.
 Matthew,13,32,"It is the smallest of all seeds, but it becomes the largest of garden plants; it grows into a tree, and birds come and make nests in its branches.”"
 Matthew,13,33,"Jesus also used this illustration: “The Kingdom of Heaven is like the yeast a woman used in making bread. Even though she put only a little yeast in three measures of flour, it permeated every part of the dough.”"
 Matthew,13,34,"Jesus always used stories and illustrations like these when speaking to the crowds. In fact, he never spoke to them without using such parables."
-Matthew,13,35,"This fulfilled what God had spoken through the prophet:
-“I will speak to you in parables.
-I will explain things hidden since the creation of the world.”"
+Matthew,13,35,This fulfilled what God had spoken through the prophet: “I will speak to you in parables. I will explain things hidden since the creation of the world. ”
 Matthew,13,36,"Then, leaving the crowds outside, Jesus went into the house. His disciples said, “Please explain to us the story of the weeds in the field.”"
 Matthew,13,37,"Jesus replied, “The Son of Man is the farmer who plants the good seed."
 Matthew,13,38,"The field is the world, and the good seed represents the people of the Kingdom. The weeds are the people who belong to the evil one."
 Matthew,13,39,"The enemy who planted the weeds among the wheat is the devil. The harvest is the end of the world, and the harvesters are the angels."
-Matthew,13,40,"“Just as the weeds are sorted out and burned in the fire, so it will be at the end of the world."
+Matthew,13,40," “Just as the weeds are sorted out and burned in the fire, so it will be at the end of the world."
 Matthew,13,41,"The Son of Man will send his angels, and they will remove from his Kingdom everything that causes sin and all who do evil."
 Matthew,13,42,"And the angels will throw them into the fiery furnace, where there will be weeping and gnashing of teeth."
 Matthew,13,43,Then the righteous will shine like the sun in their Father’s Kingdom. Anyone with ears to hear should listen and understand!
-Matthew,13,44,"“The Kingdom of Heaven is like a treasure that a man discovered hidden in a field. In his excitement, he hid it again and sold everything he owned to get enough money to buy the field."
-Matthew,13,45,"“Again, the Kingdom of Heaven is like a merchant on the lookout for choice pearls."
+Matthew,13,44," “The Kingdom of Heaven is like a treasure that a man discovered hidden in a field. In his excitement, he hid it again and sold everything he owned to get enough money to buy the field."
+Matthew,13,45," “Again, the Kingdom of Heaven is like a merchant on the lookout for choice pearls."
 Matthew,13,46,"When he discovered a pearl of great value, he sold everything he owned and bought it!"
-Matthew,13,47,"“Again, the Kingdom of Heaven is like a fishing net that was thrown into the water and caught fish of every kind."
+Matthew,13,47," “Again, the Kingdom of Heaven is like a fishing net that was thrown into the water and caught fish of every kind."
 Matthew,13,48,"When the net was full, they dragged it up onto the shore, sat down, and sorted the good fish into crates, but threw the bad ones away."
-Matthew,13,49,That is the way it will be at the end of the world. The angels will come and separate the wicked people from the righteous
+Matthew,13,49,"That is the way it will be at the end of the world. The angels will come and separate the wicked people from the righteous,"
 Matthew,13,50,"throwing the wicked into the fiery furnace, where there will be weeping and gnashing of teeth."
-Matthew,13,51,"Do you understand all these things?”
-“Yes,” they said, “we do.”"
+Matthew,13,51,"Do you understand all these things?” “Yes,” they said, “we do.”"
 Matthew,13,52,"Then he added, “Every teacher of religious law who becomes a disciple in the Kingdom of Heaven is like a homeowner who brings from his storeroom new gems of truth as well as old.”"
 Matthew,13,53,"When Jesus had finished telling these stories and illustrations, he left that part of the country."
 Matthew,13,54,"He returned to Nazareth, his hometown. When he taught there in the synagogue, everyone was amazed and said, “Where does he get this wisdom and the power to do miracles?”"
 Matthew,13,55,"Then they scoffed, “He’s just the carpenter’s son, and we know Mary, his mother, and his brothers—James, Joseph, Simon, and Judas."
 Matthew,13,56,All his sisters live right here among us. Where did he learn all these things?”
-Matthew,13,57,"And they were deeply offended and refused to believe in him.
-Then Jesus told them, “A prophet is honored everywhere except in his own hometown and among his own family.”"
+Matthew,13,57,"And they were deeply offended and refused to believe in him. Then Jesus told them, “A prophet is honored everywhere except in his own hometown and among his own family.”"
 Matthew,13,58,And so he did only a few miracles there because of their unbelief.
-Matthew,14,1,"When Herod Antipas, the ruler of Galilee, heard about Jesus"
+Matthew,14,1,"When Herod Antipas, the ruler of Galilee, heard about Jesus,"
 Matthew,14,2,"he said to his advisers, “This must be John the Baptist raised from the dead! That is why he can do such miracles.”"
 Matthew,14,3,For Herod had arrested and imprisoned John as a favor to his wife Herodias (the former wife of Herod’s brother Philip).
 Matthew,14,4,"John had been telling Herod, “It is against God’s law for you to marry her.”"
 Matthew,14,5,"Herod wanted to kill John, but he was afraid of a riot, because all the people believed John was a prophet."
-Matthew,14,6,"But at a birthday party for Herod, Herodias’s daughter performed a dance that greatly pleased him"
+Matthew,14,6,"But at a birthday party for Herod, Herodias’s daughter performed a dance that greatly pleased him,"
 Matthew,14,7,so he promised with a vow to give her anything she wanted.
 Matthew,14,8,"At her mother’s urging, the girl said, “I want the head of John the Baptist on a tray!”"
 Matthew,14,9,"Then the king regretted what he had said; but because of the vow he had made in front of his guests, he issued the necessary orders."
-Matthew,14,10,So John was beheaded in the prison
+Matthew,14,10,"So John was beheaded in the prison,"
 Matthew,14,11,"and his head was brought on a tray and given to the girl, who took it to her mother."
 Matthew,14,12,"Later, John’s disciples came for his body and buried it. Then they went and told Jesus what had happened."
 Matthew,14,13,"As soon as Jesus heard the news, he left in a boat to a remote area to be alone. But the crowds heard where he was headed and followed on foot from many towns."
@@ -579,7 +468,7 @@ Matthew,14,14,"Jesus saw the huge crowd as he stepped from the boat, and he had 
 Matthew,14,15,"That evening the disciples came to him and said, “This is a remote place, and it’s already getting late. Send the crowds away so they can go to the villages and buy food for themselves.”"
 Matthew,14,16,"But Jesus said, “That isn’t necessary—you feed them.”"
 Matthew,14,17,“But we have only five loaves of bread and two fish!” they answered.
-Matthew,14,18,"“Bring them here,” he said."
+Matthew,14,18," “Bring them here,” he said."
 Matthew,14,19,"Then he told the people to sit down on the grass. Jesus took the five loaves and two fish, looked up toward heaven, and blessed them. Then, breaking the loaves into pieces, he gave the bread to the disciples, who distributed it to the people."
 Matthew,14,20,"They all ate as much as they wanted, and afterward, the disciples picked up twelve baskets of leftovers."
 Matthew,14,21,"About 5,000 men were fed that day, in addition to all the women and children!"
@@ -588,10 +477,9 @@ Matthew,14,23,"After sending them home, he went up into the hills by himself to 
 Matthew,14,24,"Meanwhile, the disciples were in trouble far away from land, for a strong wind had risen, and they were fighting heavy waves."
 Matthew,14,25,"About three o’clock in the morning Jesus came toward them, walking on the water."
 Matthew,14,26,"When the disciples saw him walking on the water, they were terrified. In their fear, they cried out, “It’s a ghost!”"
-Matthew,14,27,"But Jesus spoke to them at once. “Don’t be afraid,” he said. “Take courage. I am here!”"
+Matthew,14,27,"But Jesus spoke to them at once. “Don’t be afraid,” he said. “Take courage. I am here! ”"
 Matthew,14,28,"Then Peter called to him, “Lord, if it’s really you, tell me to come to you, walking on the water.”"
-Matthew,14,29,"“Yes, come,” Jesus said.
-So Peter went over the side of the boat and walked on the water toward Jesus."
+Matthew,14,29," “Yes, come,” Jesus said. So Peter went over the side of the boat and walked on the water toward Jesus."
 Matthew,14,30,"But when he saw the strong wind and the waves, he was terrified and began to sink. “Save me, Lord!” he shouted."
 Matthew,14,31,"Jesus immediately reached out and grabbed him. “You have so little faith,” Jesus said. “Why did you doubt me?”"
 Matthew,14,32,"When they climbed back into the boat, the wind stopped."
@@ -599,24 +487,22 @@ Matthew,14,33,Then the disciples worshiped him. “You really are the Son of God
 Matthew,14,34,"After they had crossed the lake, they landed at Gennesaret."
 Matthew,14,35,"When the people recognized Jesus, the news of his arrival spread quickly throughout the whole area, and soon people were bringing all their sick to be healed."
 Matthew,14,36,"They begged him to let the sick touch at least the fringe of his robe, and all who touched him were healed."
-Matthew,15,1,Some Pharisees and teachers of religious law now arrived from Jerusalem to see Jesus. They asked him
+Matthew,15,1,"Some Pharisees and teachers of religious law now arrived from Jerusalem to see Jesus. They asked him,"
 Matthew,15,2,“Why do your disciples disobey our age-old tradition? For they ignore our tradition of ceremonial hand washing before they eat.”
 Matthew,15,3,"Jesus replied, “And why do you, by your traditions, violate the direct commandments of God?"
 Matthew,15,4,"For instance, God says, ‘Honor your father and mother,’ and ‘Anyone who speaks disrespectfully of father or mother must be put to death.’"
 Matthew,15,5,"But you say it is all right for people to say to their parents, ‘Sorry, I can’t help you. For I have vowed to give to God what I would have given to you.’"
 Matthew,15,6,"In this way, you say they don’t need to honor their parents. And so you cancel the word of God for the sake of your own tradition."
-Matthew,15,7,"You hypocrites! Isaiah was right when he prophesied about you, for he wrote"
-Matthew,15,8,"‘These people honor me with their lips,
-but their hearts are far from me."
-Matthew,15,9,"Their worship is a farce,
-for they teach man-made ideas as commands from God.’”"
+Matthew,15,7,"You hypocrites! Isaiah was right when he prophesied about you, for he wrote,"
+Matthew,15,8," ‘These people honor me with their lips, but their hearts are far from me."
+Matthew,15,9," Their worship is a farce, for they teach man-made ideas as commands from God.’ ”"
 Matthew,15,10,"Then Jesus called to the crowd to come and hear. “Listen,” he said, “and try to understand."
 Matthew,15,11,It’s not what goes into your mouth that defiles you; you are defiled by the words that come out of your mouth.”
 Matthew,15,12,"Then the disciples came to him and asked, “Do you realize you offended the Pharisees by what you just said?”"
-Matthew,15,13,"Jesus replied, “Every plant not planted by my heavenly Father will be uprooted"
+Matthew,15,13,"Jesus replied, “Every plant not planted by my heavenly Father will be uprooted,"
 Matthew,15,14,"so ignore them. They are blind guides leading the blind, and if one blind person guides another, they will both fall into a ditch.”"
 Matthew,15,15,"Then Peter said to Jesus, “Explain to us the parable that says people aren’t defiled by what they eat.”"
-Matthew,15,16,“Don’t you understand yet?” Jesus asked.
+Matthew,15,16, “Don’t you understand yet?” Jesus asked.
 Matthew,15,17,“Anything you eat passes through the stomach and then goes into the sewer.
 Matthew,15,18,But the words you speak come from the heart—that’s what defiles you.
 Matthew,15,19,"For from the heart come evil thoughts, murder, adultery, all sexual immorality, theft, lying, and slander."
@@ -628,23 +514,22 @@ Matthew,15,24,"Then Jesus said to the woman, “I was sent only to help God’s 
 Matthew,15,25,"But she came and worshiped him, pleading again, “Lord, help me!”"
 Matthew,15,26,"Jesus responded, “It isn’t right to take food from the children and throw it to the dogs.”"
 Matthew,15,27,"She replied, “That’s true, Lord, but even dogs are allowed to eat the scraps that fall beneath their masters’ table.”"
-Matthew,15,28,"“Dear woman,” Jesus said to her, “your faith is great. Your request is granted.” And her daughter was instantly healed."
+Matthew,15,28," “Dear woman,” Jesus said to her, “your faith is great. Your request is granted.” And her daughter was instantly healed."
 Matthew,15,29,Jesus returned to the Sea of Galilee and climbed a hill and sat down.
 Matthew,15,30,"A vast crowd brought to him people who were lame, blind, crippled, those who couldn’t speak, and many others. They laid them before Jesus, and he healed them all."
 Matthew,15,31,"The crowd was amazed! Those who hadn’t been able to speak were talking, the crippled were made well, the lame were walking, and the blind could see again! And they praised the God of Israel."
 Matthew,15,32,"Then Jesus called his disciples and told them, “I feel sorry for these people. They have been here with me for three days, and they have nothing left to eat. I don’t want to send them away hungry, or they will faint along the way.”"
 Matthew,15,33,"The disciples replied, “Where would we get enough food here in the wilderness for such a huge crowd?”"
-Matthew,15,34,"Jesus asked, “How much bread do you have?”
-They replied, “Seven loaves, and a few small fish.”"
+Matthew,15,34,"Jesus asked, “How much bread do you have?” They replied, “Seven loaves, and a few small fish.”"
 Matthew,15,35,So Jesus told all the people to sit down on the ground.
 Matthew,15,36,"Then he took the seven loaves and the fish, thanked God for them, and broke them into pieces. He gave them to the disciples, who distributed the food to the crowd."
 Matthew,15,37,"They all ate as much as they wanted. Afterward, the disciples picked up seven large baskets of leftover food."
 Matthew,15,38,"There were 4,000 men who were fed that day, in addition to all the women and children."
 Matthew,15,39,"Then Jesus sent the people home, and he got into a boat and crossed over to the region of Magadan."
 Matthew,16,1,"One day the Pharisees and Sadducees came to test Jesus, demanding that he show them a miraculous sign from heaven to prove his authority."
-Matthew,16,2,"He replied, “You know the saying, ‘Red sky at night means fair weather tomorrow"
+Matthew,16,2,"He replied, “You know the saying, ‘Red sky at night means fair weather tomorrow;"
 Matthew,16,3,"red sky in the morning means foul weather all day.’ You know how to interpret the weather signs in the sky, but you don’t know how to interpret the signs of the times!"
-Matthew,16,4,"Only an evil, adulterous generation would demand a miraculous sign, but the only sign I will give them is the sign of the prophet Jonah.” Then Jesus left them and went away."
+Matthew,16,4,"Only an evil, adulterous generation would demand a miraculous sign, but the only sign I will give them is the sign of the prophet Jonah. ” Then Jesus left them and went away."
 Matthew,16,5,"Later, after they crossed to the other side of the lake, the disciples discovered they had forgotten to bring any bread."
 Matthew,16,6,“Watch out!” Jesus warned them. “Beware of the yeast of the Pharisees and Sadducees.”
 Matthew,16,7,At this they began to argue with each other because they hadn’t brought any bread.
@@ -672,53 +557,52 @@ Matthew,16,28,"And I tell you the truth, some standing here right now will not d
 Matthew,17,1,"Six days later Jesus took Peter and the two brothers, James and John, and led them up a high mountain to be alone."
 Matthew,17,2,"As the men watched, Jesus’ appearance was transformed so that his face shone like the sun, and his clothes became as white as light."
 Matthew,17,3,"Suddenly, Moses and Elijah appeared and began talking with Jesus."
-Matthew,17,4,"Peter exclaimed, “Lord, it’s wonderful for us to be here! If you want, I’ll make three shelters as memorials—one for you, one for Moses, and one for Elijah.”"
+Matthew,17,4,"Peter exclaimed, “Lord, it’s wonderful for us to be here! If you want, I’ll make three shelters as memorials —one for you, one for Moses, and one for Elijah.”"
 Matthew,17,5,"But even as he spoke, a bright cloud overshadowed them, and a voice from the cloud said, “This is my dearly loved Son, who brings me great joy. Listen to him.”"
 Matthew,17,6,The disciples were terrified and fell face down on the ground.
 Matthew,17,7,"Then Jesus came over and touched them. “Get up,” he said. “Don’t be afraid.”"
 Matthew,17,8,"And when they looked up, Moses and Elijah were gone, and they saw only Jesus."
 Matthew,17,9,"As they went back down the mountain, Jesus commanded them, “Don’t tell anyone what you have seen until the Son of Man has been raised from the dead.”"
-Matthew,17,10,"Then his disciples asked him, “Why do the teachers of religious law insist that Elijah must return before the Messiah comes?”"
+Matthew,17,10,"Then his disciples asked him, “Why do the teachers of religious law insist that Elijah must return before the Messiah comes? ”"
 Matthew,17,11,"Jesus replied, “Elijah is indeed coming first to get everything ready."
 Matthew,17,12,"But I tell you, Elijah has already come, but he wasn’t recognized, and they chose to abuse him. And in the same way they will also make the Son of Man suffer.”"
 Matthew,17,13,Then the disciples realized he was talking about John the Baptist.
-Matthew,17,14,"At the foot of the mountain, a large crowd was waiting for them. A man came and knelt before Jesus and said"
+Matthew,17,14,"At the foot of the mountain, a large crowd was waiting for them. A man came and knelt before Jesus and said,"
 Matthew,17,15,"“Lord, have mercy on my son. He has seizures and suffers terribly. He often falls into the fire or into the water."
 Matthew,17,16,"So I brought him to your disciples, but they couldn’t heal him.”"
 Matthew,17,17,"Jesus said, “You faithless and corrupt people! How long must I be with you? How long must I put up with you? Bring the boy here to me.”"
 Matthew,17,18,"Then Jesus rebuked the demon in the boy, and it left him. From that moment the boy was well."
 Matthew,17,19,"Afterward the disciples asked Jesus privately, “Why couldn’t we cast out that demon?”"
-Matthew,17,20,"“You don’t have enough faith,” Jesus told them. “I tell you the truth, if you had faith even as small as a mustard seed, you could say to this mountain, ‘Move from here to there,’ and it would move. Nothing would be impossible.”"
+Matthew,17,20," “You don’t have enough faith,” Jesus told them. “I tell you the truth, if you had faith even as small as a mustard seed, you could say to this mountain, ‘Move from here to there,’ and it would move. Nothing would be impossible. ”"
 Matthew,18,1,"About that time the disciples came to Jesus and asked, “Who is greatest in the Kingdom of Heaven?”"
 Matthew,18,2,Jesus called a little child to him and put the child among them.
 Matthew,18,3,"Then he said, “I tell you the truth, unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven."
 Matthew,18,4,So anyone who becomes as humble as this little child is the greatest in the Kingdom of Heaven.
-Matthew,18,5,“And anyone who welcomes a little child like this on my behalf is welcoming me.
+Matthew,18,5, “And anyone who welcomes a little child like this on my behalf is welcoming me.
 Matthew,18,6,"But if you cause one of these little ones who trusts in me to fall into sin, it would be better for you to have a large millstone tied around your neck and be drowned in the depths of the sea."
-Matthew,18,7,"“What sorrow awaits the world, because it tempts people to sin. Temptations are inevitable, but what sorrow awaits the person who does the tempting."
+Matthew,18,7," “What sorrow awaits the world, because it tempts people to sin. Temptations are inevitable, but what sorrow awaits the person who does the tempting."
 Matthew,18,8,"So if your hand or foot causes you to sin, cut it off and throw it away. It’s better to enter eternal life with only one hand or one foot than to be thrown into eternal fire with both of your hands and feet."
 Matthew,18,9,"And if your eye causes you to sin, gouge it out and throw it away. It’s better to enter eternal life with only one eye than to have two eyes and be thrown into the fire of hell."
-Matthew,18,10,“Beware that you don’t look down on any of these little ones. For I tell you that in heaven their angels are always in the presence of my heavenly Father.
+Matthew,18,10, “Beware that you don’t look down on any of these little ones. For I tell you that in heaven their angels are always in the presence of my heavenly Father.
 Matthew,19,1,"When Jesus had finished saying these things, he left Galilee and went down to the region of Judea east of the Jordan River."
 Matthew,19,2,"Large crowds followed him there, and he healed their sick."
 Matthew,19,3,Some Pharisees came and tried to trap him with this question: “Should a man be allowed to divorce his wife for just any reason?”
-Matthew,19,4,“Haven’t you read the Scriptures?” Jesus replied. “They record that from the beginning ‘God made them male and female.’”
+Matthew,19,4, “Haven’t you read the Scriptures?” Jesus replied. “They record that from the beginning ‘God made them male and female.’ ”
 Matthew,19,5,"And he said, “‘This explains why a man leaves his father and mother and is joined to his wife, and the two are united into one.’"
 Matthew,19,6,"Since they are no longer two but one, let no one split apart what God has joined together.”"
 Matthew,19,7,“Then why did Moses say in the law that a man could give his wife a written notice of divorce and send her away?” they asked.
 Matthew,19,8,"Jesus replied, “Moses permitted divorce only as a concession to your hard hearts, but it was not what God had originally intended."
-Matthew,19,9,"And I tell you this, whoever divorces his wife and marries someone else commits adultery—unless his wife has been unfaithful.”"
+Matthew,19,9,"And I tell you this, whoever divorces his wife and marries someone else commits adultery—unless his wife has been unfaithful. ”"
 Matthew,19,10,"Jesus’ disciples then said to him, “If this is the case, it is better not to marry!”"
-Matthew,19,11,"“Not everyone can accept this statement,” Jesus said. “Only those whom God helps."
+Matthew,19,11," “Not everyone can accept this statement,” Jesus said. “Only those whom God helps."
 Matthew,19,12,"Some are born as eunuchs, some have been made eunuchs by others, and some choose not to marry for the sake of the Kingdom of Heaven. Let anyone accept this who can.”"
 Matthew,19,13,One day some parents brought their children to Jesus so he could lay his hands on them and pray for them. But the disciples scolded the parents for bothering him.
 Matthew,19,14,"But Jesus said, “Let the children come to me. Don’t stop them! For the Kingdom of Heaven belongs to those who are like these children.”"
 Matthew,19,15,And he placed his hands on their heads and blessed them before he left.
 Matthew,19,16,"Someone came to Jesus with this question: “Teacher, what good deed must I do to have eternal life?”"
-Matthew,19,17,"“Why ask me about what is good?” Jesus replied. “There is only One who is good. But to answer your question—if you want to receive eternal life, keep the commandments.”"
-Matthew,19,18,"“Which ones?” the man asked.
-And Jesus replied: “‘You must not murder. You must not commit adultery. You must not steal. You must not testify falsely."
-Matthew,19,19,Honor your father and mother. Love your neighbor as yourself.’”
+Matthew,19,17," “Why ask me about what is good?” Jesus replied. “There is only One who is good. But to answer your question—if you want to receive eternal life, keep the commandments.”"
+Matthew,19,18,“Which ones?” the man asked. And Jesus replied: “‘You must not murder. You must not commit adultery. You must not steal. You must not testify falsely.
+Matthew,19,19,Honor your father and mother. Love your neighbor as yourself.’ ”
 Matthew,19,20,"“I’ve obeyed all these commandments,” the young man replied. “What else must I do?”"
 Matthew,19,21,"Jesus told him, “If you want to be perfect, go and sell all your possessions and give the money to the poor, and you will have treasure in heaven. Then come, follow me.”"
 Matthew,19,22,"But when the young man heard this, he went away sad, for he had many possessions."
@@ -730,130 +614,109 @@ Matthew,19,27,"Then Peter said to him, “We’ve given up everything to follow 
 Matthew,19,28,"Jesus replied, “I assure you that when the world is made new and the Son of Man sits upon his glorious throne, you who have been my followers will also sit on twelve thrones, judging the twelve tribes of Israel."
 Matthew,19,29,"And everyone who has given up houses or brothers or sisters or father or mother or children or property, for my sake, will receive a hundred times as much in return and will inherit eternal life."
 Matthew,19,30,"But many who are the greatest now will be least important then, and those who seem least important now will be the greatest then."
-Matthew,20,1,“For the Kingdom of Heaven is like the landowner who went out early one morning to hire workers for his vineyard.
+Matthew,20,1, “For the Kingdom of Heaven is like the landowner who went out early one morning to hire workers for his vineyard.
 Matthew,20,2,He agreed to pay the normal daily wage and sent them out to work.
-Matthew,20,3,“At nine o’clock in the morning he was passing through the marketplace and saw some people standing around doing nothing.
+Matthew,20,3, “At nine o’clock in the morning he was passing through the marketplace and saw some people standing around doing nothing.
 Matthew,20,4,"So he hired them, telling them he would pay them whatever was right at the end of the day."
 Matthew,20,5,So they went to work in the vineyard. At noon and again at three o’clock he did the same thing.
-Matthew,20,6,"“At five o’clock that afternoon he was in town again and saw some more people standing around. He asked them, ‘Why haven’t you been working today?’"
-Matthew,20,7,"“They replied, ‘Because no one hired us.’
-“The landowner told them, ‘Then go out and join the others in my vineyard.’"
-Matthew,20,8,"“That evening he told the foreman to call the workers in and pay them, beginning with the last workers first."
+Matthew,20,6," “At five o’clock that afternoon he was in town again and saw some more people standing around. He asked them, ‘Why haven’t you been working today?’"
+Matthew,20,7," “They replied, ‘Because no one hired us.’ “The landowner told them, ‘Then go out and join the others in my vineyard.’"
+Matthew,20,8," “That evening he told the foreman to call the workers in and pay them, beginning with the last workers first."
 Matthew,20,9,"When those hired at five o’clock were paid, each received a full day’s wage."
 Matthew,20,10,"When those hired first came to get their pay, they assumed they would receive more. But they, too, were paid a day’s wage."
-Matthew,20,11,"When they received their pay, they protested to the owner"
+Matthew,20,11,"When they received their pay, they protested to the owner,"
 Matthew,20,12,"‘Those people worked only one hour, and yet you’ve paid them just as much as you paid us who worked all day in the scorching heat.’"
-Matthew,20,13,"“He answered one of them, ‘Friend, I haven’t been unfair! Didn’t you agree to work all day for the usual wage?"
+Matthew,20,13," “He answered one of them, ‘Friend, I haven’t been unfair! Didn’t you agree to work all day for the usual wage?"
 Matthew,20,14,Take your money and go. I wanted to pay this last worker the same as you.
 Matthew,20,15,Is it against the law for me to do what I want with my money? Should you be jealous because I am kind to others?’
-Matthew,20,16,"“So those who are last now will be first then, and those who are first will be last.”"
+Matthew,20,16," “So those who are last now will be first then, and those who are first will be last.”"
 Matthew,20,17,"As Jesus was going up to Jerusalem, he took the twelve disciples aside privately and told them what was going to happen to him."
 Matthew,20,18,"“Listen,” he said, “we’re going up to Jerusalem, where the Son of Man will be betrayed to the leading priests and the teachers of religious law. They will sentence him to die."
 Matthew,20,19,"Then they will hand him over to the Romans to be mocked, flogged with a whip, and crucified. But on the third day he will be raised from the dead.”"
 Matthew,20,20,"Then the mother of James and John, the sons of Zebedee, came to Jesus with her sons. She knelt respectfully to ask a favor."
-Matthew,20,21,"“What is your request?” he asked.
-She replied, “In your Kingdom, please let my two sons sit in places of honor next to you, one on your right and the other on your left.”"
-Matthew,20,22,"But Jesus answered by saying to them, “You don’t know what you are asking! Are you able to drink from the bitter cup of suffering I am about to drink?”
-“Oh yes,” they replied, “we are able!”"
+Matthew,20,21,"“What is your request?” he asked. She replied, “In your Kingdom, please let my two sons sit in places of honor next to you, one on your right and the other on your left.”"
+Matthew,20,22,"But Jesus answered by saying to them, “You don’t know what you are asking! Are you able to drink from the bitter cup of suffering I am about to drink?” “Oh yes,” they replied, “we are able!”"
 Matthew,20,23,"Jesus told them, “You will indeed drink from my bitter cup. But I have no right to say who will sit on my right or my left. My Father has prepared those places for the ones he has chosen.”"
 Matthew,20,24,"When the ten other disciples heard what James and John had asked, they were indignant."
 Matthew,20,25,"But Jesus called them together and said, “You know that the rulers in this world lord it over their people, and officials flaunt their authority over those under them."
-Matthew,20,26,But among you it will be different. Whoever wants to be a leader among you must be your servant
+Matthew,20,26,"But among you it will be different. Whoever wants to be a leader among you must be your servant,"
 Matthew,20,27,and whoever wants to be first among you must become your slave.
 Matthew,20,28,For even the Son of Man came not to be served but to serve others and to give his life as a ransom for many.”
 Matthew,20,29,"As Jesus and the disciples left the town of Jericho, a large crowd followed behind."
 Matthew,20,30,"Two blind men were sitting beside the road. When they heard that Jesus was coming that way, they began shouting, “Lord, Son of David, have mercy on us!”"
-Matthew,20,31,"“Be quiet!” the crowd yelled at them.
-But they only shouted louder, “Lord, Son of David, have mercy on us!”"
+Matthew,20,31,"“Be quiet!” the crowd yelled at them. But they only shouted louder, “Lord, Son of David, have mercy on us!”"
 Matthew,20,32,"When Jesus heard them, he stopped and called, “What do you want me to do for you?”"
 Matthew,20,33,"“Lord,” they said, “we want to see!”"
 Matthew,20,34,Jesus felt sorry for them and touched their eyes. Instantly they could see! Then they followed him.
 Matthew,21,1,"As Jesus and the disciples approached Jerusalem, they came to the town of Bethphage on the Mount of Olives. Jesus sent two of them on ahead."
 Matthew,21,2,"“Go into the village over there,” he said. “As soon as you enter it, you will see a donkey tied there, with its colt beside it. Untie them and bring them to me."
 Matthew,21,3,"If anyone asks what you are doing, just say, ‘The Lord needs them,’ and he will immediately let you take them.”"
-Matthew,21,4,This took place to fulfill the prophecy that said
-Matthew,21,5,"“Tell the people of Jerusalem,
-‘Look, your King is coming to you.
-He is humble, riding on a donkey—
-riding on a donkey’s colt.’”"
+Matthew,21,4,"This took place to fulfill the prophecy that said,"
+Matthew,21,5,"“Tell the people of Jerusalem, ‘Look, your King is coming to you. He is humble, riding on a donkey— riding on a donkey’s colt.’”"
 Matthew,21,6,The two disciples did as Jesus commanded.
 Matthew,21,7,"They brought the donkey and the colt to him and threw their garments over the colt, and he sat on it."
 Matthew,21,8,"Most of the crowd spread their garments on the road ahead of him, and others cut branches from the trees and spread them on the road."
-Matthew,21,9,"Jesus was in the center of the procession, and the people all around him were shouting,
-“Praise God for the Son of David!
-Blessings on the one who comes in the name of the LORD!
-Praise God in highest heaven!”"
+Matthew,21,9,"Jesus was in the center of the procession, and the people all around him were shouting, “Praise God for the Son of David! Blessings on the one who comes in the name of the Lord! Praise God in highest heaven!”"
 Matthew,21,10,The entire city of Jerusalem was in an uproar as he entered. “Who is this?” they asked.
 Matthew,21,11,"And the crowds replied, “It’s Jesus, the prophet from Nazareth in Galilee.”"
 Matthew,21,12,Jesus entered the Temple and began to drive out all the people buying and selling animals for sacrifice. He knocked over the tables of the money changers and the chairs of those selling doves.
 Matthew,21,13,"He said to them, “The Scriptures declare, ‘My Temple will be called a house of prayer,’ but you have turned it into a den of thieves!”"
 Matthew,21,14,"The blind and the lame came to him in the Temple, and he healed them."
-Matthew,21,15,"The leading priests and the teachers of religious law saw these wonderful miracles and heard even the children in the Temple shouting, “Praise God for the Son of David.”
-But the leaders were indignant."
-Matthew,21,16,"They asked Jesus, “Do you hear what these children are saying?”
-“Yes,” Jesus replied. “Haven’t you ever read the Scriptures? For they say, ‘You have taught children and infants to give you praise.’”"
+Matthew,21,15,"The leading priests and the teachers of religious law saw these wonderful miracles and heard even the children in the Temple shouting, “Praise God for the Son of David.” But the leaders were indignant."
+Matthew,21,16,"They asked Jesus, “Do you hear what these children are saying?” “Yes,” Jesus replied. “Haven’t you ever read the Scriptures? For they say, ‘You have taught children and infants to give you praise.’ ”"
 Matthew,21,17,"Then he returned to Bethany, where he stayed overnight."
-Matthew,21,18,"In the morning, as Jesus was returning to Jerusalem, he was hungry"
+Matthew,21,18,"In the morning, as Jesus was returning to Jerusalem, he was hungry,"
 Matthew,21,19,"and he noticed a fig tree beside the road. He went over to see if there were any figs, but there were only leaves. Then he said to it, “May you never bear fruit again!” And immediately the fig tree withered up."
 Matthew,21,20,"The disciples were amazed when they saw this and asked, “How did the fig tree wither so quickly?”"
 Matthew,21,21,"Then Jesus told them, “I tell you the truth, if you have faith and don’t doubt, you can do things like this and much more. You can even say to this mountain, ‘May you be lifted up and thrown into the sea,’ and it will happen."
 Matthew,21,22,"You can pray for anything, and if you have faith, you will receive it.”"
 Matthew,21,23,"When Jesus returned to the Temple and began teaching, the leading priests and elders came up to him. They demanded, “By what authority are you doing all these things? Who gave you the right?”"
-Matthew,21,24,"“I’ll tell you by what authority I do these things if you answer one question,” Jesus replied."
-Matthew,21,25,"“Did John’s authority to baptize come from heaven, or was it merely human?”
-They talked it over among themselves. “If we say it was from heaven, he will ask us why we didn’t believe John."
+Matthew,21,24," “I’ll tell you by what authority I do these things if you answer one question,” Jesus replied."
+Matthew,21,25,"“Did John’s authority to baptize come from heaven, or was it merely human?” They talked it over among themselves. “If we say it was from heaven, he will ask us why we didn’t believe John."
 Matthew,21,26,"But if we say it was merely human, we’ll be mobbed because the people believe John was a prophet.”"
-Matthew,21,27,"So they finally replied, “We don’t know.”
-And Jesus responded, “Then I won’t tell you by what authority I do these things."
-Matthew,21,28,"“But what do you think about this? A man with two sons told the older boy, ‘Son, go out and work in the vineyard today.’"
+Matthew,21,27,"So they finally replied, “We don’t know.” And Jesus responded, “Then I won’t tell you by what authority I do these things."
+Matthew,21,28," “But what do you think about this? A man with two sons told the older boy, ‘Son, go out and work in the vineyard today.’"
 Matthew,21,29,"The son answered, ‘No, I won’t go,’ but later he changed his mind and went anyway."
 Matthew,21,30,"Then the father told the other son, ‘You go,’ and he said, ‘Yes, sir, I will.’ But he didn’t go."
-Matthew,21,31,"“Which of the two obeyed his father?”
-They replied, “The first.”
-Then Jesus explained his meaning: “I tell you the truth, corrupt tax collectors and prostitutes will get into the Kingdom of God before you do."
+Matthew,21,31," “Which of the two obeyed his father?” They replied, “The first.” Then Jesus explained his meaning: “I tell you the truth, corrupt tax collectors and prostitutes will get into the Kingdom of God before you do."
 Matthew,21,32,"For John the Baptist came and showed you the right way to live, but you didn’t believe him, while tax collectors and prostitutes did. And even when you saw this happening, you refused to believe him and repent of your sins."
-Matthew,21,33,"“Now listen to another story. A certain landowner planted a vineyard, built a wall around it, dug a pit for pressing out the grape juice, and built a lookout tower. Then he leased the vineyard to tenant farmers and moved to another country."
+Matthew,21,33," “Now listen to another story. A certain landowner planted a vineyard, built a wall around it, dug a pit for pressing out the grape juice, and built a lookout tower. Then he leased the vineyard to tenant farmers and moved to another country."
 Matthew,21,34,"At the time of the grape harvest, he sent his servants to collect his share of the crop."
 Matthew,21,35,"But the farmers grabbed his servants, beat one, killed one, and stoned another."
 Matthew,21,36,"So the landowner sent a larger group of his servants to collect for him, but the results were the same."
-Matthew,21,37,"“Finally, the owner sent his son, thinking, ‘Surely they will respect my son.’"
-Matthew,21,38,"“But when the tenant farmers saw his son coming, they said to one another, ‘Here comes the heir to this estate. Come on, let’s kill him and get the estate for ourselves!’"
+Matthew,21,37," “Finally, the owner sent his son, thinking, ‘Surely they will respect my son.’"
+Matthew,21,38," “But when the tenant farmers saw his son coming, they said to one another, ‘Here comes the heir to this estate. Come on, let’s kill him and get the estate for ourselves!’"
 Matthew,21,39,"So they grabbed him, dragged him out of the vineyard, and murdered him."
-Matthew,21,40,"“When the owner of the vineyard returns,” Jesus asked, “what do you think he will do to those farmers?”"
+Matthew,21,40," “When the owner of the vineyard returns,” Jesus asked, “what do you think he will do to those farmers?”"
 Matthew,21,41,"The religious leaders replied, “He will put the wicked men to a horrible death and lease the vineyard to others who will give him his share of the crop after each harvest.”"
-Matthew,21,42,"Then Jesus asked them, “Didn’t you ever read this in the Scriptures?
-‘The stone that the builders rejected
-has now become the cornerstone.
-This is the LORD’s doing,
-and it is wonderful to see.’"
-Matthew,21,43,"I tell you, the Kingdom of God will be taken away from you and given to a nation that will produce the proper fruit."
-Matthew,21,44,"Anyone who stumbles over that stone will be broken to pieces, and it will crush anyone it falls on.”"
+Matthew,21,42,"Then Jesus asked them, “Didn’t you ever read this in the Scriptures? ‘The stone that the builders rejected has now become the cornerstone. This is the Lord ’s doing, and it is wonderful to see.’"
+Matthew,21,43," I tell you, the Kingdom of God will be taken away from you and given to a nation that will produce the proper fruit."
+Matthew,21,44,"Anyone who stumbles over that stone will be broken to pieces, and it will crush anyone it falls on. ”"
 Matthew,21,45,"When the leading priests and Pharisees heard this parable, they realized he was telling the story against them—they were the wicked farmers."
 Matthew,21,46,"They wanted to arrest him, but they were afraid of the crowds, who considered Jesus to be a prophet."
-Matthew,22,1,Jesus also told them other parables. He said
+Matthew,22,1,"Jesus also told them other parables. He said,"
 Matthew,22,2,“The Kingdom of Heaven can be illustrated by the story of a king who prepared a great wedding feast for his son.
 Matthew,22,3,"When the banquet was ready, he sent his servants to notify those who were invited. But they all refused to come!"
-Matthew,22,4,"“So he sent other servants to tell them, ‘The feast has been prepared. The bulls and fattened cattle have been killed, and everything is ready. Come to the banquet!’"
+Matthew,22,4," “So he sent other servants to tell them, ‘The feast has been prepared. The bulls and fattened cattle have been killed, and everything is ready. Come to the banquet!’"
 Matthew,22,5,"But the guests he had invited ignored them and went their own way, one to his farm, another to his business."
 Matthew,22,6,Others seized his messengers and insulted them and killed them.
-Matthew,22,7,"“The king was furious, and he sent out his army to destroy the murderers and burn their town."
+Matthew,22,7," “The king was furious, and he sent out his army to destroy the murderers and burn their town."
 Matthew,22,8,"And he said to his servants, ‘The wedding feast is ready, and the guests I invited aren’t worthy of the honor."
 Matthew,22,9,Now go out to the street corners and invite everyone you see.’
 Matthew,22,10,"So the servants brought in everyone they could find, good and bad alike, and the banquet hall was filled with guests."
-Matthew,22,11,"“But when the king came in to meet the guests, he noticed a man who wasn’t wearing the proper clothes for a wedding."
+Matthew,22,11," “But when the king came in to meet the guests, he noticed a man who wasn’t wearing the proper clothes for a wedding."
 Matthew,22,12,"‘Friend,’ he asked, ‘how is it that you are here without wedding clothes?’ But the man had no reply."
 Matthew,22,13,"Then the king said to his aides, ‘Bind his hands and feet and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’"
-Matthew,22,14,"“For many are called, but few are chosen.”"
+Matthew,22,14," “For many are called, but few are chosen.”"
 Matthew,22,15,Then the Pharisees met together to plot how to trap Jesus into saying something for which he could be arrested.
 Matthew,22,16,"They sent some of their disciples, along with the supporters of Herod, to meet with him. “Teacher,” they said, “we know how honest you are. You teach the way of God truthfully. You are impartial and don’t play favorites."
 Matthew,22,17,Now tell us what you think about this: Is it right to pay taxes to Caesar or not?”
 Matthew,22,18,But Jesus knew their evil motives. “You hypocrites!” he said. “Why are you trying to trap me?
-Matthew,22,19,"Here, show me the coin used for the tax.” When they handed him a Roman coin"
+Matthew,22,19,"Here, show me the coin used for the tax.” When they handed him a Roman coin,"
 Matthew,22,20,"he asked, “Whose picture and title are stamped on it?”"
-Matthew,22,21,"“Caesar’s,” they replied.
-“Well, then,” he said, “give to Caesar what belongs to Caesar, and give to God what belongs to God.”"
+Matthew,22,21,"“Caesar’s,” they replied. “Well, then,” he said, “give to Caesar what belongs to Caesar, and give to God what belongs to God.”"
 Matthew,22,22,"His reply amazed them, and they went away."
-Matthew,22,23,That same day Jesus was approached by some Sadducees—religious leaders who say there is no resurrection from the dead. They posed this question
+Matthew,22,23,That same day Jesus was approached by some Sadducees—religious leaders who say there is no resurrection from the dead. They posed this question:
 Matthew,22,24,"“Teacher, Moses said, ‘If a man dies without children, his brother should marry the widow and have a child who will carry on the brother’s name.’"
 Matthew,22,25,"Well, suppose there were seven brothers. The oldest one married and then died without children, so his brother married the widow."
 Matthew,22,26,"But the second brother also died, and the third brother married her. This continued with all seven of them."
@@ -861,53 +724,50 @@ Matthew,22,27,"Last of all, the woman also died."
 Matthew,22,28,"So tell us, whose wife will she be in the resurrection? For all seven were married to her.”"
 Matthew,22,29,"Jesus replied, “Your mistake is that you don’t know the Scriptures, and you don’t know the power of God."
 Matthew,22,30,"For when the dead rise, they will neither marry nor be given in marriage. In this respect they will be like the angels in heaven."
-Matthew,22,31,"“But now, as to whether there will be a resurrection of the dead—haven’t you ever read about this in the Scriptures? Long after Abraham, Isaac, and Jacob had died, God said"
+Matthew,22,31," “But now, as to whether there will be a resurrection of the dead—haven’t you ever read about this in the Scriptures? Long after Abraham, Isaac, and Jacob had died, God said,"
 Matthew,22,32,"‘I am the God of Abraham, the God of Isaac, and the God of Jacob.’ So he is the God of the living, not the dead.”"
 Matthew,22,33,"When the crowds heard him, they were astounded at his teaching."
 Matthew,22,34,"But when the Pharisees heard that he had silenced the Sadducees with his reply, they met together to question him again."
-Matthew,22,35,"One of them, an expert in religious law, tried to trap him with this question"
+Matthew,22,35,"One of them, an expert in religious law, tried to trap him with this question:"
 Matthew,22,36,"“Teacher, which is the most important commandment in the law of Moses?”"
-Matthew,22,37,"Jesus replied, “‘You must love the LORD your God with all your heart, all your soul, and all your mind.’"
+Matthew,22,37,"Jesus replied, “‘You must love the Lord your God with all your heart, all your soul, and all your mind.’"
 Matthew,22,38,This is the first and greatest commandment.
 Matthew,22,39,A second is equally important: ‘Love your neighbor as yourself.’
 Matthew,22,40,The entire law and all the demands of the prophets are based on these two commandments.”
-Matthew,22,41,"Then, surrounded by the Pharisees, Jesus asked them a question"
-Matthew,22,42,"“What do you think about the Messiah? Whose son is he?”
-They replied, “He is the son of David.”"
-Matthew,22,43,"Jesus responded, “Then why does David, speaking under the inspiration of the Spirit, call the Messiah ‘my Lord’? For David said"
-Matthew,22,44,"‘The LORD said to my Lord,
-Sit in the place of honor at my right hand
-until I humble your enemies beneath your feet.’"
-Matthew,22,45,"Since David called the Messiah ‘my Lord,’ how can the Messiah be his son?”"
+Matthew,22,41,"Then, surrounded by the Pharisees, Jesus asked them a question:"
+Matthew,22,42,"“What do you think about the Messiah? Whose son is he?” They replied, “He is the son of David.”"
+Matthew,22,43,"Jesus responded, “Then why does David, speaking under the inspiration of the Spirit, call the Messiah ‘my Lord’? For David said,"
+Matthew,22,44," ‘The Lord said to my Lord, Sit in the place of honor at my right hand until I humble your enemies beneath your feet.’"
+Matthew,22,45," Since David called the Messiah ‘my Lord,’ how can the Messiah be his son?”"
 Matthew,22,46,"No one could answer him. And after that, no one dared to ask him any more questions."
-Matthew,23,1,Then Jesus said to the crowds and to his disciples
+Matthew,23,1,"Then Jesus said to the crowds and to his disciples,"
 Matthew,23,2,“The teachers of religious law and the Pharisees are the official interpreters of the law of Moses.
 Matthew,23,3,"So practice and obey whatever they tell you, but don’t follow their example. For they don’t practice what they teach."
 Matthew,23,4,They crush people with unbearable religious demands and never lift a finger to ease the burden.
-Matthew,23,5,"“Everything they do is for show. On their arms they wear extra wide prayer boxes with Scripture verses inside, and they wear robes with extra long tassels."
+Matthew,23,5," “Everything they do is for show. On their arms they wear extra wide prayer boxes with Scripture verses inside, and they wear robes with extra long tassels."
 Matthew,23,6,And they love to sit at the head table at banquets and in the seats of honor in the synagogues.
 Matthew,23,7,"They love to receive respectful greetings as they walk in the marketplaces, and to be called ‘Rabbi.’"
-Matthew,23,8,"“Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters."
+Matthew,23,8," “Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters."
 Matthew,23,9,"And don’t address anyone here on earth as ‘Father,’ for only God in heaven is your Father."
 Matthew,23,10,"And don’t let anyone call you ‘Teacher,’ for you have only one teacher, the Messiah."
 Matthew,23,11,The greatest among you must be a servant.
 Matthew,23,12,"But those who exalt themselves will be humbled, and those who humble themselves will be exalted."
-Matthew,23,13,"“What sorrow awaits you teachers of religious law and you Pharisees. Hypocrites! For you shut the door of the Kingdom of Heaven in people’s faces. You won’t go in yourselves, and you don’t let others enter either."
+Matthew,23,13," “What sorrow awaits you teachers of religious law and you Pharisees. Hypocrites! For you shut the door of the Kingdom of Heaven in people’s faces. You won’t go in yourselves, and you don’t let others enter either."
 Matthew,24,1,"As Jesus was leaving the Temple grounds, his disciples pointed out to him the various Temple buildings."
 Matthew,24,2,"But he responded, “Do you see all these buildings? I tell you the truth, they will be completely demolished. Not one stone will be left on top of another!”"
-Matthew,24,3,"Later, Jesus sat on the Mount of Olives. His disciples came to him privately and said, “Tell us, when will all this happen? What sign will signal your return and the end of the world?”"
-Matthew,24,4,"Jesus told them, “Don’t let anyone mislead you"
+Matthew,24,3,"Later, Jesus sat on the Mount of Olives. His disciples came to him privately and said, “Tell us, when will all this happen? What sign will signal your return and the end of the world? ”"
+Matthew,24,4,"Jesus told them, “Don’t let anyone mislead you,"
 Matthew,24,5,"for many will come in my name, claiming, ‘I am the Messiah.’ They will deceive many."
 Matthew,24,6,"And you will hear of wars and threats of wars, but don’t panic. Yes, these things must take place, but the end won’t follow immediately."
 Matthew,24,7,"Nation will go to war against nation, and kingdom against kingdom. There will be famines and earthquakes in many parts of the world."
 Matthew,24,8,"But all this is only the first of the birth pains, with more to come."
-Matthew,24,9,"“Then you will be arrested, persecuted, and killed. You will be hated all over the world because you are my followers."
+Matthew,24,9," “Then you will be arrested, persecuted, and killed. You will be hated all over the world because you are my followers."
 Matthew,24,10,And many will turn away from me and betray and hate each other.
 Matthew,24,11,And many false prophets will appear and will deceive many people.
 Matthew,24,12,"Sin will be rampant everywhere, and the love of many will grow cold."
 Matthew,24,13,But the one who endures to the end will be saved.
 Matthew,24,14,"And the Good News about the Kingdom will be preached throughout the whole world, so that all nations will hear it; and then the end will come."
-Matthew,24,15,"“The day is coming when you will see what Daniel the prophet spoke about—the sacrilegious object that causes desecration standing in the Holy Place.” (Reader, pay attention!)"
+Matthew,24,15," “The day is coming when you will see what Daniel the prophet spoke about—the sacrilegious object that causes desecration standing in the Holy Place.” (Reader, pay attention!)"
 Matthew,24,16,“Then those in Judea must flee to the hills.
 Matthew,24,17,A person out on the deck of a roof must not go down into the house to pack.
 Matthew,24,18,A person out in the field must not return even to get a coat.
@@ -915,88 +775,84 @@ Matthew,24,19,How terrible it will be for pregnant women and for nursing mothers
 Matthew,24,20,And pray that your flight will not be in winter or on the Sabbath.
 Matthew,24,21,For there will be greater anguish than at any time since the world began. And it will never be so great again.
 Matthew,24,22,"In fact, unless that time of calamity is shortened, not a single person will survive. But it will be shortened for the sake of God’s chosen ones."
-Matthew,24,23,"“Then if anyone tells you, ‘Look, here is the Messiah,’ or ‘There he is,’ don’t believe it."
+Matthew,24,23," “Then if anyone tells you, ‘Look, here is the Messiah,’ or ‘There he is,’ don’t believe it."
 Matthew,24,24,"For false messiahs and false prophets will rise up and perform great signs and wonders so as to deceive, if possible, even God’s chosen ones."
 Matthew,24,25,"See, I have warned you about this ahead of time."
-Matthew,24,26,"“So if someone tells you, ‘Look, the Messiah is out in the desert,’ don’t bother to go and look. Or, ‘Look, he is hiding here,’ don’t believe it!"
+Matthew,24,26," “So if someone tells you, ‘Look, the Messiah is out in the desert,’ don’t bother to go and look. Or, ‘Look, he is hiding here,’ don’t believe it!"
 Matthew,24,27,"For as the lightning flashes in the east and shines to the west, so it will be when the Son of Man comes."
 Matthew,24,28,"Just as the gathering of vultures shows there is a carcass nearby, so these signs indicate that the end is near."
-Matthew,24,29,"“Immediately after the anguish of those days,
-the sun will be darkened,
-the moon will give no light,
-the stars will fall from the sky,
-and the powers in the heavens will be shaken."
-Matthew,24,30,"And then at last, the sign that the Son of Man is coming will appear in the heavens, and there will be deep mourning among all the peoples of the earth. And they will see the Son of Man coming on the clouds of heaven with power and great glory."
-Matthew,24,31,"And he will send out his angels with the mighty blast of a trumpet, and they will gather his chosen ones from all over the world—from the farthest ends of the earth and heaven."
-Matthew,24,32,"“Now learn a lesson from the fig tree. When its branches bud and its leaves begin to sprout, you know that summer is near."
+Matthew,24,29," “Immediately after the anguish of those days, the sun will be darkened, the moon will give no light, the stars will fall from the sky, and the powers in the heavens will be shaken."
+Matthew,24,30," And then at last, the sign that the Son of Man is coming will appear in the heavens, and there will be deep mourning among all the peoples of the earth. And they will see the Son of Man coming on the clouds of heaven with power and great glory."
+Matthew,24,31,"And he will send out his angels with the mighty blast of a trumpet, and they will gather his chosen ones from all over the world —from the farthest ends of the earth and heaven."
+Matthew,24,32," “Now learn a lesson from the fig tree. When its branches bud and its leaves begin to sprout, you know that summer is near."
 Matthew,24,33,"In the same way, when you see all these things, you can know his return is very near, right at the door."
 Matthew,24,34,"I tell you the truth, this generation will not pass from the scene until all these things take place."
 Matthew,24,35,"Heaven and earth will disappear, but my words will never disappear."
-Matthew,24,36,"“However, no one knows the day or hour when these things will happen, not even the angels in heaven or the Son himself. Only the Father knows."
-Matthew,24,37,"“When the Son of Man returns, it will be like it was in Noah’s day."
+Matthew,24,36," “However, no one knows the day or hour when these things will happen, not even the angels in heaven or the Son himself. Only the Father knows."
+Matthew,24,37," “When the Son of Man returns, it will be like it was in Noah’s day."
 Matthew,24,38,"In those days before the flood, the people were enjoying banquets and parties and weddings right up to the time Noah entered his boat."
 Matthew,24,39,People didn’t realize what was going to happen until the flood came and swept them all away. That is the way it will be when the Son of Man comes.
-Matthew,24,40,"“Two men will be working together in the field; one will be taken, the other left."
+Matthew,24,40," “Two men will be working together in the field; one will be taken, the other left."
 Matthew,24,41,"Two women will be grinding flour at the mill; one will be taken, the other left."
-Matthew,24,42,"“So you, too, must keep watch! For you don’t know what day your Lord is coming."
+Matthew,24,42," “So you, too, must keep watch! For you don’t know what day your Lord is coming."
 Matthew,24,43,"Understand this: If a homeowner knew exactly when a burglar was coming, he would keep watch and not permit his house to be broken into."
 Matthew,24,44,"You also must be ready all the time, for the Son of Man will come when least expected."
-Matthew,24,45,"“A faithful, sensible servant is one to whom the master can give the responsibility of managing his other household servants and feeding them."
+Matthew,24,45," “A faithful, sensible servant is one to whom the master can give the responsibility of managing his other household servants and feeding them."
 Matthew,24,46,"If the master returns and finds that the servant has done a good job, there will be a reward."
 Matthew,24,47,"I tell you the truth, the master will put that servant in charge of all he owns."
 Matthew,24,48,"But what if the servant is evil and thinks, ‘My master won’t be back for a while,’"
 Matthew,24,49,"and he begins beating the other servants, partying, and getting drunk?"
-Matthew,24,50,The master will return unannounced and unexpected
+Matthew,24,50,"The master will return unannounced and unexpected,"
 Matthew,24,51,and he will cut the servant to pieces and assign him a place with the hypocrites. In that place there will be weeping and gnashing of teeth.
-Matthew,25,1,“Then the Kingdom of Heaven will be like ten bridesmaids who took their lamps and went to meet the bridegroom.
+Matthew,25,1, “Then the Kingdom of Heaven will be like ten bridesmaids who took their lamps and went to meet the bridegroom.
 Matthew,25,2,"Five of them were foolish, and five were wise."
-Matthew,25,3,The five who were foolish didn’t take enough olive oil for their lamps
+Matthew,25,3,"The five who were foolish didn’t take enough olive oil for their lamps,"
 Matthew,25,4,but the other five were wise enough to take along extra oil.
 Matthew,25,5,"When the bridegroom was delayed, they all became drowsy and fell asleep."
-Matthew,25,6,"“At midnight they were roused by the shout, ‘Look, the bridegroom is coming! Come out and meet him!’"
-Matthew,25,7,“All the bridesmaids got up and prepared their lamps.
+Matthew,25,6," “At midnight they were roused by the shout, ‘Look, the bridegroom is coming! Come out and meet him!’"
+Matthew,25,7, “All the bridesmaids got up and prepared their lamps.
 Matthew,25,8,"Then the five foolish ones asked the others, ‘Please give us some of your oil because our lamps are going out.’"
-Matthew,25,9,"“But the others replied, ‘We don’t have enough for all of us. Go to a shop and buy some for yourselves.’"
-Matthew,25,10,"“But while they were gone to buy oil, the bridegroom came. Then those who were ready went in with him to the marriage feast, and the door was locked."
+Matthew,25,9," “But the others replied, ‘We don’t have enough for all of us. Go to a shop and buy some for yourselves.’"
+Matthew,25,10," “But while they were gone to buy oil, the bridegroom came. Then those who were ready went in with him to the marriage feast, and the door was locked."
 Matthew,25,11,"Later, when the other five bridesmaids returned, they stood outside, calling, ‘Lord! Lord! Open the door for us!’"
-Matthew,25,12,"“But he called back, ‘Believe me, I don’t know you!’"
-Matthew,25,13,"“So you, too, must keep watch! For you do not know the day or hour of my return."
-Matthew,25,14,"“Again, the Kingdom of Heaven can be illustrated by the story of a man going on a long trip. He called together his servants and entrusted his money to them while he was gone."
+Matthew,25,12," “But he called back, ‘Believe me, I don’t know you!’"
+Matthew,25,13," “So you, too, must keep watch! For you do not know the day or hour of my return."
+Matthew,25,14," “Again, the Kingdom of Heaven can be illustrated by the story of a man going on a long trip. He called together his servants and entrusted his money to them while he was gone."
 Matthew,25,15,"He gave five bags of silver to one, two bags of silver to another, and one bag of silver to the last—dividing it in proportion to their abilities. He then left on his trip."
-Matthew,25,16,“The servant who received the five bags of silver began to invest the money and earned five more.
+Matthew,25,16, “The servant who received the five bags of silver began to invest the money and earned five more.
 Matthew,25,17,The servant with two bags of silver also went to work and earned two more.
 Matthew,25,18,But the servant who received the one bag of silver dug a hole in the ground and hid the master’s money.
-Matthew,25,19,“After a long time their master returned from his trip and called them to give an account of how they had used his money.
+Matthew,25,19, “After a long time their master returned from his trip and called them to give an account of how they had used his money.
 Matthew,25,20,"The servant to whom he had entrusted the five bags of silver came forward with five more and said, ‘Master, you gave me five bags of silver to invest, and I have earned five more.’"
-Matthew,25,21,"“The master was full of praise. ‘Well done, my good and faithful servant. You have been faithful in handling this small amount, so now I will give you many more responsibilities. Let’s celebrate together!’"
-Matthew,25,22,"“The servant who had received the two bags of silver came forward and said, ‘Master, you gave me two bags of silver to invest, and I have earned two more.’"
-Matthew,25,23,"“The master said, ‘Well done, my good and faithful servant. You have been faithful in handling this small amount, so now I will give you many more responsibilities. Let’s celebrate together!’"
-Matthew,25,24,"“Then the servant with the one bag of silver came and said, ‘Master, I knew you were a harsh man, harvesting crops you didn’t plant and gathering crops you didn’t cultivate."
+Matthew,25,21," “The master was full of praise. ‘Well done, my good and faithful servant. You have been faithful in handling this small amount, so now I will give you many more responsibilities. Let’s celebrate together! ’"
+Matthew,25,22," “The servant who had received the two bags of silver came forward and said, ‘Master, you gave me two bags of silver to invest, and I have earned two more.’"
+Matthew,25,23," “The master said, ‘Well done, my good and faithful servant. You have been faithful in handling this small amount, so now I will give you many more responsibilities. Let’s celebrate together!’"
+Matthew,25,24," “Then the servant with the one bag of silver came and said, ‘Master, I knew you were a harsh man, harvesting crops you didn’t plant and gathering crops you didn’t cultivate."
 Matthew,25,25,"I was afraid I would lose your money, so I hid it in the earth. Look, here is your money back.’"
-Matthew,25,26,"“But the master replied, ‘You wicked and lazy servant! If you knew I harvested crops I didn’t plant and gathered crops I didn’t cultivate"
+Matthew,25,26," “But the master replied, ‘You wicked and lazy servant! If you knew I harvested crops I didn’t plant and gathered crops I didn’t cultivate,"
 Matthew,25,27,why didn’t you deposit my money in the bank? At least I could have gotten some interest on it.’
-Matthew,25,28,"“Then he ordered, ‘Take the money from this servant, and give it to the one with the ten bags of silver."
+Matthew,25,28," “Then he ordered, ‘Take the money from this servant, and give it to the one with the ten bags of silver."
 Matthew,25,29,"To those who use well what they are given, even more will be given, and they will have an abundance. But from those who do nothing, even what little they have will be taken away."
 Matthew,25,30,"Now throw this useless servant into outer darkness, where there will be weeping and gnashing of teeth.’"
-Matthew,25,31,"“But when the Son of Man comes in his glory, and all the angels with him, then he will sit upon his glorious throne."
+Matthew,25,31," “But when the Son of Man comes in his glory, and all the angels with him, then he will sit upon his glorious throne."
 Matthew,25,32,"All the nations will be gathered in his presence, and he will separate the people as a shepherd separates the sheep from the goats."
 Matthew,25,33,He will place the sheep at his right hand and the goats at his left.
-Matthew,25,34,"“Then the King will say to those on his right, ‘Come, you who are blessed by my Father, inherit the Kingdom prepared for you from the creation of the world."
+Matthew,25,34," “Then the King will say to those on his right, ‘Come, you who are blessed by my Father, inherit the Kingdom prepared for you from the creation of the world."
 Matthew,25,35,"For I was hungry, and you fed me. I was thirsty, and you gave me a drink. I was a stranger, and you invited me into your home."
 Matthew,25,36,"I was naked, and you gave me clothing. I was sick, and you cared for me. I was in prison, and you visited me.’"
-Matthew,25,37,"“Then these righteous ones will reply, ‘Lord, when did we ever see you hungry and feed you? Or thirsty and give you something to drink?"
+Matthew,25,37," “Then these righteous ones will reply, ‘Lord, when did we ever see you hungry and feed you? Or thirsty and give you something to drink?"
 Matthew,25,38,Or a stranger and show you hospitality? Or naked and give you clothing?
 Matthew,25,39,When did we ever see you sick or in prison and visit you?’
-Matthew,25,40,"“And the King will say, ‘I tell you the truth, when you did it to one of the least of these my brothers and sisters, you were doing it to me!’"
-Matthew,25,41,"“Then the King will turn to those on the left and say, ‘Away with you, you cursed ones, into the eternal fire prepared for the devil and his demons."
+Matthew,25,40," “And the King will say, ‘I tell you the truth, when you did it to one of the least of these my brothers and sisters, you were doing it to me!’"
+Matthew,25,41," “Then the King will turn to those on the left and say, ‘Away with you, you cursed ones, into the eternal fire prepared for the devil and his demons."
 Matthew,25,42,"For I was hungry, and you didn’t feed me. I was thirsty, and you didn’t give me a drink."
 Matthew,25,43,"I was a stranger, and you didn’t invite me into your home. I was naked, and you didn’t give me clothing. I was sick and in prison, and you didn’t visit me.’"
-Matthew,25,44,"“Then they will reply, ‘Lord, when did we ever see you hungry or thirsty or a stranger or naked or sick or in prison, and not help you?’"
-Matthew,25,45,"“And he will answer, ‘I tell you the truth, when you refused to help the least of these my brothers and sisters, you were refusing to help me.’"
-Matthew,25,46,"“And they will go away into eternal punishment, but the righteous will go into eternal life.”"
-Matthew,26,1,"When Jesus had finished saying all these things, he said to his disciples"
+Matthew,25,44," “Then they will reply, ‘Lord, when did we ever see you hungry or thirsty or a stranger or naked or sick or in prison, and not help you?’"
+Matthew,25,45," “And he will answer, ‘I tell you the truth, when you refused to help the least of these my brothers and sisters, you were refusing to help me.’"
+Matthew,25,46," “And they will go away into eternal punishment, but the righteous will go into eternal life.”"
+Matthew,26,1,"When Jesus had finished saying all these things, he said to his disciples,"
 Matthew,26,2,"“As you know, Passover begins in two days, and the Son of Man will be handed over to be crucified.”"
-Matthew,26,3,"At that same time the leading priests and elders were meeting at the residence of Caiaphas, the high priest"
+Matthew,26,3,"At that same time the leading priests and elders were meeting at the residence of Caiaphas, the high priest,"
 Matthew,26,4,plotting how to capture Jesus secretly and kill him.
 Matthew,26,5,"“But not during the Passover celebration,” they agreed, “or the people may riot.”"
 Matthew,26,6,"Meanwhile, Jesus was in Bethany at the home of Simon, a man who had previously had leprosy."
@@ -1011,24 +867,21 @@ Matthew,26,14,"Then Judas Iscariot, one of the twelve disciples, went to the lea
 Matthew,26,15,"and asked, “How much will you pay me to betray Jesus to you?” And they gave him thirty pieces of silver."
 Matthew,26,16,"From that time on, Judas began looking for an opportunity to betray Jesus."
 Matthew,26,17,"On the first day of the Festival of Unleavened Bread, the disciples came to Jesus and asked, “Where do you want us to prepare the Passover meal for you?”"
-Matthew,26,18,"“As you go into the city,” he told them, “you will see a certain man. Tell him, ‘The Teacher says: My time has come, and I will eat the Passover meal with my disciples at your house.’”"
+Matthew,26,18," “As you go into the city,” he told them, “you will see a certain man. Tell him, ‘The Teacher says: My time has come, and I will eat the Passover meal with my disciples at your house.’”"
 Matthew,26,19,So the disciples did as Jesus told them and prepared the Passover meal there.
 Matthew,26,20,"When it was evening, Jesus sat down at the table with the Twelve."
 Matthew,26,21,"While they were eating, he said, “I tell you the truth, one of you will betray me.”"
 Matthew,26,22,"Greatly distressed, each one asked in turn, “Am I the one, Lord?”"
 Matthew,26,23,"He replied, “One of you who has just eaten from this bowl with me will betray me."
 Matthew,26,24,"For the Son of Man must die, as the Scriptures declared long ago. But how terrible it will be for the one who betrays him. It would be far better for that man if he had never been born!”"
-Matthew,26,25,"Judas, the one who would betray him, also asked, “Rabbi, am I the one?”
-And Jesus told him, “You have said it.”"
+Matthew,26,25,"Judas, the one who would betray him, also asked, “Rabbi, am I the one?” And Jesus told him, “You have said it.”"
 Matthew,26,26,"As they were eating, Jesus took some bread and blessed it. Then he broke it in pieces and gave it to the disciples, saying, “Take this and eat it, for this is my body.”"
-Matthew,26,27,"And he took a cup of wine and gave thanks to God for it. He gave it to them and said, “Each of you drink from it"
+Matthew,26,27,"And he took a cup of wine and gave thanks to God for it. He gave it to them and said, “Each of you drink from it,"
 Matthew,26,28,"for this is my blood, which confirms the covenant between God and his people. It is poured out as a sacrifice to forgive the sins of many."
 Matthew,26,29,Mark my words—I will not drink wine again until the day I drink it new with you in my Father’s Kingdom.”
 Matthew,26,30,Then they sang a hymn and went out to the Mount of Olives.
-Matthew,26,31,"On the way, Jesus told them, “Tonight all of you will desert me. For the Scriptures say,
-‘God will strike the Shepherd,
-and the sheep of the flock will be scattered.’"
-Matthew,26,32,"But after I have been raised from the dead, I will go ahead of you to Galilee and meet you there.”"
+Matthew,26,31,"On the way, Jesus told them, “Tonight all of you will desert me. For the Scriptures say, ‘God will strike the Shepherd, and the sheep of the flock will be scattered.’"
+Matthew,26,32," But after I have been raised from the dead, I will go ahead of you to Galilee and meet you there.”"
 Matthew,26,33,"Peter declared, “Even if everyone else deserts you, I will never desert you.”"
 Matthew,26,34,"Jesus replied, “I tell you the truth, Peter—this very night, before the rooster crows, you will deny three times that you even know me.”"
 Matthew,26,35,"“No!” Peter insisted. “Even if I have to die with you, I will never deny you!” And all the other disciples vowed the same."
@@ -1046,10 +899,9 @@ Matthew,26,46,"Up, let’s be going. Look, my betrayer is here!”"
 Matthew,26,47,"And even as Jesus said this, Judas, one of the twelve disciples, arrived with a crowd of men armed with swords and clubs. They had been sent by the leading priests and elders of the people."
 Matthew,26,48,"The traitor, Judas, had given them a prearranged signal: “You will know which one to arrest when I greet him with a kiss.”"
 Matthew,26,49,"So Judas came straight to Jesus. “Greetings, Rabbi!” he exclaimed and gave him the kiss."
-Matthew,26,50,"Jesus said, “My friend, go ahead and do what you have come for.”
-Then the others grabbed Jesus and arrested him."
+Matthew,26,50,"Jesus said, “My friend, go ahead and do what you have come for.” Then the others grabbed Jesus and arrested him."
 Matthew,26,51,"But one of the men with Jesus pulled out his sword and struck the high priest’s slave, slashing off his ear."
-Matthew,26,52,"“Put away your sword,” Jesus told him. “Those who use the sword will die by the sword."
+Matthew,26,52," “Put away your sword,” Jesus told him. “Those who use the sword will die by the sword."
 Matthew,26,53,"Don’t you realize that I could ask my Father for thousands of angels to protect us, and he would send them instantly?"
 Matthew,26,54,"But if I did, how would the Scriptures be fulfilled that describe what must happen now?”"
 Matthew,26,55,"Then Jesus said to the crowd, “Am I some dangerous revolutionary, that you come with swords and clubs to arrest me? Why didn’t you arrest me in the Temple? I was there teaching every day."
@@ -1063,13 +915,12 @@ Matthew,26,62,"Then the high priest stood up and said to Jesus, “Well, aren’
 Matthew,26,63,"But Jesus remained silent. Then the high priest said to him, “I demand in the name of the living God—tell us if you are the Messiah, the Son of God.”"
 Matthew,26,64,"Jesus replied, “You have said it. And in the future you will see the Son of Man seated in the place of power at God’s right hand and coming on the clouds of heaven.”"
 Matthew,26,65,"Then the high priest tore his clothing to show his horror and said, “Blasphemy! Why do we need other witnesses? You have all heard his blasphemy."
-Matthew,26,66,"What is your verdict?”
-“Guilty!” they shouted. “He deserves to die!”"
-Matthew,26,67,Then they began to spit in Jesus’ face and beat him with their fists. And some slapped him
+Matthew,26,66,What is your verdict?” “Guilty!” they shouted. “He deserves to die!”
+Matthew,26,67,"Then they began to spit in Jesus’ face and beat him with their fists. And some slapped him,"
 Matthew,26,68,"jeering, “Prophesy to us, you Messiah! Who hit you that time?”"
 Matthew,26,69,"Meanwhile, Peter was sitting outside in the courtyard. A servant girl came over and said to him, “You were one of those with Jesus the Galilean.”"
 Matthew,26,70,"But Peter denied it in front of everyone. “I don’t know what you’re talking about,” he said."
-Matthew,26,71,"Later, out by the gate, another servant girl noticed him and said to those standing around, “This man was with Jesus of Nazareth.”"
+Matthew,26,71,"Later, out by the gate, another servant girl noticed him and said to those standing around, “This man was with Jesus of Nazareth. ”"
 Matthew,26,72,"Again Peter denied it, this time with an oath. “I don’t even know the man,” he said."
 Matthew,26,73,"A little later some of the other bystanders came over to Peter and said, “You must be one of them; we can tell by your Galilean accent.”"
 Matthew,26,74,"Peter swore, “A curse on me if I’m lying—I don’t know the man!” And immediately the rooster crowed."
@@ -1077,19 +928,14 @@ Matthew,26,75,"Suddenly, Jesus’ words flashed through Peter’s mind: “Befor
 Matthew,27,1,Very early in the morning the leading priests and the elders of the people met again to lay plans for putting Jesus to death.
 Matthew,27,2,"Then they bound him, led him away, and took him to Pilate, the Roman governor."
 Matthew,27,3,"When Judas, who had betrayed him, realized that Jesus had been condemned to die, he was filled with remorse. So he took the thirty pieces of silver back to the leading priests and the elders."
-Matthew,27,4,"“I have sinned,” he declared, “for I have betrayed an innocent man.”
-“What do we care?” they retorted. “That’s your problem.”"
+Matthew,27,4,"“I have sinned,” he declared, “for I have betrayed an innocent man.” “What do we care?” they retorted. “That’s your problem.”"
 Matthew,27,5,Then Judas threw the silver coins down in the Temple and went out and hanged himself.
 Matthew,27,6,"The leading priests picked up the coins. “It wouldn’t be right to put this money in the Temple treasury,” they said, “since it was payment for murder.”"
 Matthew,27,7,"After some discussion they finally decided to buy the potter’s field, and they made it into a cemetery for foreigners."
 Matthew,27,8,That is why the field is still called the Field of Blood.
-Matthew,27,9,"This fulfilled the prophecy of Jeremiah that says,
-“They took the thirty pieces of silver—
-the price at which he was valued by the people of Israel"
-Matthew,27,10,"and purchased the potter’s field,
-as the LORD directed.”"
-Matthew,27,11,"Now Jesus was standing before Pilate, the Roman governor. “Are you the king of the Jews?” the governor asked him.
-Jesus replied, “You have said it.”"
+Matthew,27,9,"This fulfilled the prophecy of Jeremiah that says, “They took the thirty pieces of silver— the price at which he was valued by the people of Israel,"
+Matthew,27,10,"and purchased the potter’s field, as the Lord directed. ”"
+Matthew,27,11,"Now Jesus was standing before Pilate, the Roman governor. “Are you the king of the Jews?” the governor asked him. Jesus replied, “You have said it.”"
 Matthew,27,12,"But when the leading priests and the elders made their accusations against him, Jesus remained silent."
 Matthew,27,13,“Don’t you hear all these charges they are bringing against you?” Pilate demanded.
 Matthew,27,14,"But Jesus made no response to any of the charges, much to the governor’s surprise."
@@ -1099,12 +945,9 @@ Matthew,27,17,"As the crowds gathered before Pilate’s house that morning, he a
 Matthew,27,18,(He knew very well that the religious leaders had arrested Jesus out of envy.)
 Matthew,27,19,"Just then, as Pilate was sitting on the judgment seat, his wife sent him this message: “Leave that innocent man alone. I suffered through a terrible nightmare about him last night.”"
 Matthew,27,20,"Meanwhile, the leading priests and the elders persuaded the crowd to ask for Barabbas to be released and for Jesus to be put to death."
-Matthew,27,21,"So the governor asked again, “Which of these two do you want me to release to you?”
-The crowd shouted back, “Barabbas!”"
-Matthew,27,22,"Pilate responded, “Then what should I do with Jesus who is called the Messiah?”
-They shouted back, “Crucify him!”"
-Matthew,27,23,"“Why?” Pilate demanded. “What crime has he committed?”
-But the mob roared even louder, “Crucify him!”"
+Matthew,27,21,"So the governor asked again, “Which of these two do you want me to release to you?” The crowd shouted back, “Barabbas!”"
+Matthew,27,22,"Pilate responded, “Then what should I do with Jesus who is called the Messiah?” They shouted back, “Crucify him!”"
+Matthew,27,23,"“Why?” Pilate demanded. “What crime has he committed?” But the mob roared even louder, “Crucify him!”"
 Matthew,27,24,"Pilate saw that he wasn’t getting anywhere and that a riot was developing. So he sent for a bowl of water and washed his hands before the crowd, saying, “I am innocent of this man’s blood. The responsibility is yours!”"
 Matthew,27,25,"And all the people yelled back, “We will take responsibility for his death—we and our children!”"
 Matthew,27,26,"So Pilate released Barabbas to them. He ordered Jesus flogged with a lead-tipped whip, then turned him over to the Roman soldiers to be crucified."
@@ -1132,13 +975,13 @@ Matthew,27,47,Some of the bystanders misunderstood and thought he was calling fo
 Matthew,27,48,"One of them ran and filled a sponge with sour wine, holding it up to him on a reed stick so he could drink."
 Matthew,27,49,"But the rest said, “Wait! Let’s see whether Elijah comes to save him.”"
 Matthew,27,50,"Then Jesus shouted out again, and he released his spirit."
-Matthew,27,51,"At that moment the curtain in the sanctuary of the Temple was torn in two, from top to bottom. The earth shook, rocks split apart"
+Matthew,27,51,"At that moment the curtain in the sanctuary of the Temple was torn in two, from top to bottom. The earth shook, rocks split apart,"
 Matthew,27,52,and tombs opened. The bodies of many godly men and women who had died were raised from the dead.
 Matthew,27,53,"They left the cemetery after Jesus’ resurrection, went into the holy city of Jerusalem, and appeared to many people."
 Matthew,27,54,"The Roman officer and the other soldiers at the crucifixion were terrified by the earthquake and all that had happened. They said, “This man truly was the Son of God!”"
 Matthew,27,55,And many women who had come from Galilee with Jesus to care for him were watching from a distance.
 Matthew,27,56,"Among them were Mary Magdalene, Mary (the mother of James and Joseph), and the mother of James and John, the sons of Zebedee."
-Matthew,27,57,"As evening approached, Joseph, a rich man from Arimathea who had become a follower of Jesus"
+Matthew,27,57,"As evening approached, Joseph, a rich man from Arimathea who had become a follower of Jesus,"
 Matthew,27,58,went to Pilate and asked for Jesus’ body. And Pilate issued an order to release it to him.
 Matthew,27,59,Joseph took the body and wrapped it in a long sheet of clean linen cloth.
 Matthew,27,60,"He placed it in his own new tomb, which had been carved out of the rock. Then he rolled a great stone across the entrance and left."

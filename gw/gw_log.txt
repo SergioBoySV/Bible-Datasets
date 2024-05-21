@@ -1,0 +1,230 @@
+(venv) user@laptop code % python3 threaded_scraper.py 
+---Scraping Bible version 70---
+| Thread-1 (scrape_books) | Daniel, James, 2 Peter, 1 Corinthians, Acts, Jeremiah, Lamentations, Malachi, 1 Samuel |
+| Thread-2 (scrape_books) | Zephaniah, 2 Samuel, Ruth, Nehemiah, 1 Peter, Job, Numbers, 1 Chronicles, John |
+| Thread-3 (scrape_books) | Leviticus, Philemon, Galatians, 2 John, 2 Corinthians, Psalms, Ezekiel, Esther |
+| Thread-4 (scrape_books) | Titus, 2 Kings, Joel, Mark, Amos, Exodus, Matthew, Revelation |
+| Thread-5 (scrape_books) | Micah, Jonah, Colossians, Romans, Ephesians, Hebrews, Nahum, Luke |
+| Thread-6 (scrape_books) | 2 Timothy, Song of Songs, Joshua, 1 Kings, 3 John, 1 John, Habakkuk, Ecclesiastes |
+| Thread-7 (scrape_books) | Haggai, Genesis, 1 Thessalonians, Deuteronomy, Zechariah, Proverbs, 2 Chronicles, Obadiah |
+| Thread-8 (scrape_books) | Jude, 1 Timothy, Hosea, Judges, Philippians, Isaiah, 2 Thessalonians, Ezra |
+Starting Jude (jud)
+Starting Daniel (dan)
+Starting Titus (tit)
+Starting 2 Timothy (2ti)
+Starting Haggai (hag)
+Starting Zephaniah (zep)
+Starting Leviticus (lev)
+Starting Micah (mic)
+Finished Jude (jud)
+Starting 1 Timothy (1ti)
+Finished Haggai (hag)
+Starting Genesis (gen)
+Finished Titus (tit)
+Starting 2 Kings (2ki)
+Finished Zephaniah (zep)
+Starting 2 Samuel (2sa)
+Finished 2 Timothy (2ti)
+Starting Song of Songs (sng)
+Finished 1 Timothy (1ti)
+Starting Hosea (hos)
+Finished Micah (mic)
+Starting Jonah (jon)
+Finished Jonah (jon)
+Starting Colossians (col)
+Finished Song of Songs (sng)
+Starting Joshua (jos)
+Finished Colossians (col)
+Starting Romans (rom)
+Finished Daniel (dan)
+Starting James (jas)
+Finished Hosea (hos)
+Starting Judges (jdg)
+Finished James (jas)
+Starting 2 Peter (2pe)
+Finished 2 Peter (2pe)
+Starting 1 Corinthians (1co)
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 2sa 16:7 -> Retrying
+Finished Romans (rom)
+Starting Ephesians (eph)
+HTTPSConnectionPool(host='www.bible.com', port=443): Max retries exceeded with url: /bible/70/lev.21.7 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10414aed0>, 'Connection to www.bible.com timed out. (connect timeout=None)'))
+An error occurred while retrieving lev 21:7 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 2sa 20:10 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving lev 21:15 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving gen 27:41 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jdg 11:41 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jos 19:28 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 1co 12:17 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 2ki 23:23 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving eph 6:5 -> Retrying
+Finished Ephesians (eph)
+Starting Hebrews (heb)
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving gen 27:41 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving lev 21:15 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jdg 11:41 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jos 19:28 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 1co 12:17 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 2sa 20:10 -> Retrying
+Finished 2 Kings (2ki)
+Starting Joel (jol)
+Finished Joel (jol)
+Starting Mark (mrk)
+Finished 1 Corinthians (1co)
+Starting Acts (act)
+Finished Joshua (jos)
+Starting 1 Kings (1ki)
+Finished 2 Samuel (2sa)
+Starting Ruth (rut)
+Finished Leviticus (lev)
+Starting Philemon (phm)
+Finished Hebrews (heb)
+Starting Nahum (nam)
+Finished Philemon (phm)
+Starting Galatians (gal)
+Finished Ruth (rut)
+Starting Nehemiah (neh)
+Finished Judges (jdg)
+Starting Philippians (php)
+Finished Nahum (nam)
+Starting Luke (luk)
+Finished Philippians (php)
+Starting Isaiah (isa)
+Finished Galatians (gal)
+Starting 2 John (2jn)
+Finished 2 John (2jn)
+Starting 2 Corinthians (2co)
+Finished 2 Corinthians (2co)
+Starting Psalms (psa)
+Finished Nehemiah (neh)
+Starting 1 Peter (1pe)
+Finished Genesis (gen)
+Starting 1 Thessalonians (1th)
+Finished 1 Peter (1pe)
+Starting Job (job)
+Finished Mark (mrk)
+Starting Amos (amo)
+Finished 1 Thessalonians (1th)
+Starting Deuteronomy (deu)
+Finished Amos (amo)
+Starting Exodus (exo)
+Finished 1 Kings (1ki)
+Starting 3 John (3jn)
+Finished 3 John (3jn)
+Starting 1 John (1jn)
+Finished 1 John (1jn)
+Starting Habakkuk (hab)
+Finished Acts (act)
+Starting Jeremiah (jer)
+Finished Habakkuk (hab)
+Starting Ecclesiastes (ecc)
+Finished Ecclesiastes (ecc)
+Thread-6 (scrape_books) complete
+Finished Luke (luk)
+Thread-5 (scrape_books) complete
+Finished Deuteronomy (deu)
+Starting Zechariah (zec)
+Finished Isaiah (isa)
+Starting 2 Thessalonians (2th)
+Finished 2 Thessalonians (2th)
+Starting Ezra (ezr)
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving psa 74:11 -> Retrying
+Finished Job (job)
+Starting Numbers (num)
+HTTPSConnectionPool(host='www.bible.com', port=443): Max retries exceeded with url: /bible/70/zec.12.14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10331e150>, 'Connection to www.bible.com timed out. (connect timeout=None)'))
+An error occurred while retrieving zec 12:14 -> Retrying
+Finished Zechariah (zec)
+Starting Proverbs (pro)
+Finished Ezra (ezr)
+Thread-8 (scrape_books) complete
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving pro 1:29 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving num 3:35 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving exo 40:31 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jer 36:30 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving psa 87:3 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving pro 1:29 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving num 3:35 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving exo 40:31 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jer 36:30 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving psa 87:3 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving num 3:35 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving exo 40:31 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jer 36:30 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving pro 1:29 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving psa 87:3 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving exo 40:31 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving num 3:35 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jer 36:30 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving pro 1:29 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving psa 87:3 -> Retrying
+Finished Exodus (exo)
+Starting Matthew (mat)
+Finished Jeremiah (jer)
+Starting Lamentations (lam)
+Finished Lamentations (lam)
+Starting Malachi (mal)
+Finished Proverbs (pro)
+Starting 2 Chronicles (2ch)
+Finished Malachi (mal)
+Starting 1 Samuel (1sa)
+Finished Matthew (mat)
+Starting Revelation (rev)
+Finished Numbers (num)
+Starting 1 Chronicles (1ch)
+HTTPSConnectionPool(host='www.bible.com', port=443): Max retries exceeded with url: /bible/70/psa.139.23 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103dd81d0>: Failed to resolve 'www.bible.com' ([Errno 8] nodename nor servname provided, or not known)"))
+An error occurred while retrieving psa 139:23 -> Retrying
+Finished Revelation (rev)
+Thread-4 (scrape_books) complete
+Finished Psalms (psa)
+Starting Ezekiel (ezk)
+Finished 1 Samuel (1sa)
+Thread-1 (scrape_books) complete
+Finished 2 Chronicles (2ch)
+Starting Obadiah (oba)
+Finished Obadiah (oba)
+Thread-7 (scrape_books) complete
+Finished 1 Chronicles (1ch)
+Starting John (jhn)
+Finished Ezekiel (ezk)
+Starting Esther (est)
+Finished Esther (est)
+Thread-3 (scrape_books) complete
+Finished John (jhn)
+Thread-2 (scrape_books) complete
+All threads done scraping. 8 threads in 1:10:07
+(venv) user@laptop code %

@@ -1,0 +1,217 @@
+(venv) user@laptop code % python3 threaded_scraper.py 
+---Scraping Bible version 1275---
+| Thread-1 (scrape_books) | Hagai, Romans, Divrei-HamYamim Alef, Yirmeyahu, Tz'fanyah, 1 Yochanan, 'Ovadyah, 2 Timothy, M'lakhim Bet |
+| Thread-2 (scrape_books) | Yochanan, 2 Corinthians, Philippians, Philemon, 'Ezra, Dani'el, Messianic Jews, Sh'mu'el Alef, Mikhah |
+| Thread-3 (scrape_books) | 1 Kefa, Mal'akhi, Rut, B'midbar, 1 Timothy, Y'hudah, Yonah, Revelation of Yeshua to Yochanan |
+| Thread-4 (scrape_books) | Yechezk'el, Nachum, Yo'el, 2 Yochanan, Divrei-HamYamim Bet, M'lakhim Alef, Z'kharyah, Galatians |
+| Thread-5 (scrape_books) | 'Amos, Eikhah, Sh'mot, Colossians, Kohelet, Y'Hoshua, Hoshea, Shir-HaShirim |
+| Thread-6 (scrape_books) | Mattityahu, Luke, Ester, Mark, Tehillim, Mishlei, D'varim, 3 Yochanan |
+| Thread-7 (scrape_books) | 1 Corinthians, 1 Thessalonians, Iyov, 2 Kefa, B'resheet, Vayikra, 2 Thessalonians, Nechemyah |
+| Thread-8 (scrape_books) | Titus, Havakuk, Ya'akov, Yesha 'yahu, Ephesians, Sh'mu'el Bet, Acts of Emissaries of Yeshua, Shof'tim |
+Starting Yechezk'el (ezk)
+Starting Hagai (hag)
+Starting 1 Corinthians (1co)
+Starting Yochanan (jhn)
+Starting 1 Kefa (1pe)
+Starting 'Amos (amo)
+Starting Titus (tit)
+Starting Mattityahu (mat)
+Finished Hagai (hag)
+Starting Romans (rom)
+Finished Titus (tit)
+Starting Havakuk (hab)
+Finished 1 Kefa (1pe)
+Starting Mal'akhi (mal)
+Finished Havakuk (hab)
+Starting Ya'akov (jas)
+Finished Mal'akhi (mal)
+Starting Rut (rut)
+Finished 'Amos (amo)
+Starting Eikhah (lam)
+Finished Ya'akov (jas)
+Starting Yesha 'yahu (isa) Finished Rut (rut)
+Starting B'midbar (num)
+Finished 1 Corinthians (1co)
+Starting 1 Thessalonians (1th)
+Finished Eikhah (lam)
+Starting Sh'mot (exo)
+Finished Romans (rom)
+Starting Divrei-HamYamim Alef (1ch)
+Finished 1 Thessalonians (1th)
+Starting Iyov (job)
+HTTPSConnectionPool(host='www.bible.com', port=443): Max retries exceeded with url: /bible/1275/job.4.2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x110c32810>: Failed to resolve 'www.bible.com' ([Errno 8] nodename nor servname provided, or not known)"))
+An error occurred while retrieving job 4:2 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 1ch 6:41 -> Retrying
+Finished Yochanan (jhn)
+Starting 2 Corinthians (2co)
+HTTPSConnectionPool(host='www.bible.com', port=443): Max retries exceeded with url: /bible/1275/isa.27.11 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x11191d890>, 'Connection to www.bible.com timed out. (connect timeout=None)'))
+An error occurred while retrieving isa 27:11 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 1ch 11:24 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving isa 28:13 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving num 20:25 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving job 16:19 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving exo 21:26 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving ezk 34:15 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving mat 26:51 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 2co 6:7 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 1ch 11:24 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving num 20:25 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving isa 28:13 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving exo 21:26 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving job 16:19 -> Retrying
+Finished Mattityahu (mat)
+Starting Luke (luk)
+Finished 2 Corinthians (2co)
+Starting Philippians (php)
+Finished Philippians (php)
+Starting Philemon (phm)
+Finished Philemon (phm)
+Starting 'Ezra (ezr)
+Finished Yechezk'el (ezk)
+Starting Nachum (nam)
+Finished Nachum (nam)
+Starting Yo'el (jol)
+Finished 'Ezra (ezr)
+Starting Dani'el (dan)
+Finished Divrei-HamYamim Alef (1ch)
+Starting Yirmeyahu (jer)
+Finished Yo'el (jol)
+Starting 2 Yochanan (2jn)
+Finished 2 Yochanan (2jn)
+Starting Divrei-HamYamim Bet (2ch)
+Finished B'midbar (num)
+Starting 1 Timothy (1ti)
+Finished Sh'mot (exo)
+Starting Colossians (col)
+Finished 1 Timothy (1ti)
+Starting Y'hudah (jud)
+Finished Y'hudah (jud)
+Starting Yonah (jon)
+Finished Colossians (col)
+Starting Kohelet (ecc)
+Finished Yonah (jon)
+Starting Revelation of Yeshua to Yochanan (rev)
+Finished Iyov (job)
+Starting 2 Kefa (2pe)
+Finished Yesha 'yahu (isa)
+Starting Ephesians (eph)
+Finished Dani'el (dan)
+Starting Messianic Jews (heb)
+Finished 2 Kefa (2pe)
+Starting B'resheet (gen)
+Finished Kohelet (ecc)
+Starting Y'Hoshua (jos)
+Finished Ephesians (eph)
+Starting Sh'mu'el Bet (2sa)
+Finished Revelation of Yeshua to Yochanan (rev)
+Thread-3 (scrape_books) complete
+Finished Messianic Jews (heb)
+Starting Sh'mu'el Alef (1sa)
+Finished Luke (luk)
+Starting Ester (est)
+Finished Divrei-HamYamim Bet (2ch)
+Starting M'lakhim Alef (1ki)
+HTTPSConnectionPool(host='www.bible.com', port=443): Max retries exceeded with url: /bible/1275/jer.32.10 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1074d9d90>: Failed to resolve 'www.bible.com' ([Errno 8] nodename nor servname provided, or not known)"))
+An error occurred while retrieving jer 32:10 -> Retrying
+Finished Ester (est)
+Starting Mark (mrk)
+Finished Y'Hoshua (jos)
+Starting Hoshea (hos)
+Finished Sh'mu'el Bet (2sa)
+Starting Acts of Emissaries of Yeshua (act)
+Finished Hoshea (hos)
+Starting Shir-HaShirim (sng)
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving gen 33:12 -> Retrying
+Finished Shir-HaShirim (sng)
+Thread-5 (scrape_books) complete
+HTTPSConnectionPool(host='www.bible.com', port=443): Max retries exceeded with url: /bible/1275/1sa.30.19 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x110d3e110>, 'Connection to www.bible.com timed out. (connect timeout=None)'))
+An error occurred while retrieving 1sa 30:19 -> Retrying
+Finished Sh'mu'el Alef (1sa)
+Starting Mikhah (mic)
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving mic 3:5 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 1ki 21:10 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jer 52:11 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving mrk 14:70 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving act 12:23 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving gen 42:4 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving 1ki 21:10 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving jer 52:11 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving act 12:23 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving mrk 14:70 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving mic 3:5 -> Retrying
+HTTPSConnectionPool(host='www.bible.com', port=443): Read timed out. (read timeout=None)
+An error occurred while retrieving gen 42:4 -> Retrying
+Finished Yirmeyahu (jer)
+Starting Tz'fanyah (zep)
+Finished Mark (mrk)
+Starting Tehillim (psa)
+Finished M'lakhim Alef (1ki)
+Starting Z'kharyah (zec)
+Finished Tz'fanyah (zep)
+Starting 1 Yochanan (1jn)
+Finished Mikhah (mic)
+Thread-2 (scrape_books) complete
+Finished 1 Yochanan (1jn)
+Starting 'Ovadyah (oba)
+Finished 'Ovadyah (oba)
+Starting 2 Timothy (2ti)
+Finished B'resheet (gen)
+Starting Vayikra (lev)
+Finished 2 Timothy (2ti)
+Starting M'lakhim Bet (2ki)
+Finished Z'kharyah (zec)
+Starting Galatians (gal)
+Finished Galatians (gal)
+Thread-4 (scrape_books) complete
+Finished Acts of Emissaries of Yeshua (act)
+Starting Shof'tim (jdg)
+Finished M'lakhim Bet (2ki)
+Thread-1 (scrape_books) complete
+Finished Vayikra (lev)
+Starting 2 Thessalonians (2th)
+Finished 2 Thessalonians (2th)
+Starting Nechemyah (neh)
+Finished Shof'tim (jdg)
+Thread-8 (scrape_books) complete
+Finished Nechemyah (neh)
+Thread-7 (scrape_books) complete
+Finished Tehillim (psa)
+Starting Mishlei (pro)
+Finished Mishlei (pro)
+Starting D'varim (deu)
+Could not fetch webpage (ERR: 502)
+Retrying deu 23:22
+Could not fetch webpage (ERR: 503)
+Retrying deu 24:21
+Finished D'varim (deu)
+Starting 3 Yochanan (3jn)
+Finished 3 Yochanan (3jn)
+Thread-6 (scrape_books) complete
+All threads done scraping. 8 threads in 1:34:42
+(venv) user@laptop code %
